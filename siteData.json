@@ -2,10 +2,10 @@
   "enableSearch": true,
   "pages": [
     {
-      "src": "contents/topic1.md",
+      "src": "contents/q1.md",
       "title": "",
       "headings": {
-        "topic-1": "Topic 1"
+        "what-spirit-animal-would-best-fit-vidhi-s-personality-why": "What spirit animal would best fit Vidhi's personality? Why?"
       },
       "headingKeywords": {}
     },
