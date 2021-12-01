@@ -2,6 +2,14 @@
   "enableSearch": true,
   "pages": [
     {
+      "src": "contents/gallery.md",
+      "title": "",
+      "headings": {
+        "what-is-the-one-thing-about-vidhi-that-you-cannot-stand": "What is the one thing about Vidhi that you cannot stand?"
+      },
+      "headingKeywords": {}
+    },
+    {
       "src": "contents/q1.md",
       "title": "",
       "headings": {
