@@ -5,7 +5,7 @@ with(this){return _c('div',{attrs:{"id":"app"}},[_c('header',{attrs:{"fixed":""}
 };
     var pageVueStaticRenderFns = [function anonymous(
 ) {
-with(this){return _c('div',{staticClass:"jumbotron jumbotron-fluid bg-primary text-white"},[_c('div',{staticClass:"container"},[_c('h1',{staticClass:"display-4 no-index",attrs:{"id":"happy-birthday"}},[_c('span',{staticClass:"anchor",attrs:{"id":"happy-birthday"}}),_v("Happy Birthday!"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#happy-birthday","onclick":"event.stopPropagation()"}})]),_v(" "),_c('p',{staticClass:"lead"},[_v("Let's Rock")])])])}
+with(this){return _c('div',{staticClass:"jumbotron jumbotron-fluid bg-primary text-center text-white"},[_c('div',{staticClass:"container"},[_c('h1',{staticClass:"display-4 no-index",attrs:{"id":"happy-birthday"}},[_c('span',{staticClass:"anchor",attrs:{"id":"happy-birthday"}}),_v("Happy Birthday!"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#happy-birthday","onclick":"event.stopPropagation()"}})]),_v(" "),_c('p',{staticClass:"lead"},[_v("Let's Rock")])])])}
 },function anonymous(
 ) {
 with(this){return _c('h1',{attrs:{"id":"heading-1"}},[_c('span',{staticClass:"anchor",attrs:{"id":"heading-1"}}),_v("Heading 1"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#heading-1","onclick":"event.stopPropagation()"}})])}
