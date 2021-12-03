@@ -26,7 +26,7 @@ with(this){return _c('header',[_c('div',{staticClass:"text-center",staticStyle:{
 with(this){return _c('header',[_c('div',{staticClass:"text-center",staticStyle:{"padding-top":"inherit","padding-bottom":"inherit"}},[_c('div',{staticClass:"container"},[_c('div',{staticClass:"lead"},[_c('br'),_c('br'),_v(" "),_c('img',{attrs:{"src":"/bombphatnewalahai/images/dog.png","width":"300","alt":"Mouse"}}),_v(" "),_c('br'),_c('br')])])])])}
 },function anonymous(
 ) {
-with(this){return _c('header',[_c('div',{staticClass:"text-center",staticStyle:{"padding-top":"inherit","padding-bottom":"inherit"}},[_c('div',{staticClass:"container"},[_c('div',{staticClass:"lead"},[_c('br'),_c('br'),_v(" "),_c('img',{attrs:{"src":"/bombphatnewalahai/images/quokkas.jpeg","width":"300","alt":"Mouse"}}),_v(" "),_c('br'),_c('br')])])])])}
+with(this){return _c('header',[_c('div',{staticClass:"text-center",staticStyle:{"padding-top":"inherit","padding-bottom":"inherit"}},[_c('div',{staticClass:"container"},[_c('div',{staticClass:"lead"},[_c('br'),_c('br'),_v(" "),_c('img',{attrs:{"src":"/bombphatnewalahai/images/quokka.jpeg","width":"300","alt":"Mouse"}}),_v(" "),_c('br'),_c('br')])])])])}
 },function anonymous(
 ) {
 with(this){return _c('header',[_c('div',{staticClass:"text-center",staticStyle:{"padding-top":"inherit","padding-bottom":"inherit"}},[_c('div',{staticClass:"container"},[_c('div',{staticClass:"lead"},[_c('br'),_c('br'),_v(" "),_c('img',{attrs:{"src":"/bombphatnewalahai/images/giraffe.jpeg","width":"300","alt":"Mouse"}}),_v(" "),_c('br'),_c('br')])])])])}
