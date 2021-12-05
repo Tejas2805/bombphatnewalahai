@@ -1,0 +1,67 @@
+{
+  "enableSearch": true,
+  "pages": [
+    {
+      "src": "contents/gallery.md",
+      "title": "",
+      "headings": {
+        "what-is-the-one-thing-about-vidhi-that-you-cannot-stand": "What is the one thing about Vidhi that you cannot stand?"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "contents/q1.md",
+      "title": "",
+      "headings": {
+        "what-spirit-animal-would-best-fit-vidhi-s-personality-why": "What spirit animal would best fit Vidhi's personality? Why?"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "contents/q2.md",
+      "title": "",
+      "headings": {
+        "what-song-would-vidhi-sing-in-a-karaoke-night": "What song would Vidhi sing in a karaoke night?"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "contents/q3.md",
+      "title": "",
+      "headings": {
+        "name-something-you-could-do-say-to-make-vidhi-laugh": "Name something you could do/say to make Vidhi laugh?"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "contents/q4.md",
+      "title": "",
+      "headings": {
+        "what-is-the-one-thing-about-vidhi-that-you-cannot-stand": "What is the one thing about Vidhi that you cannot stand?"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "contents/q5.md",
+      "title": "",
+      "headings": {
+        "what-is-the-one-trait-about-vidhi-that-you-would-steal-if-you-could": "What is the one trait about Vidhi that you would steal if you could?"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "contents/q6.md",
+      "title": "",
+      "headings": {
+        "if-you-had-to-take-a-holiday-with-vidhi-where-would-you-go-and-what-would-you-do": "If you had to take a holiday with Vidhi, where would you go and what would you do?"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "index.md",
+      "title": "Happy Birthday",
+      "headings": {},
+      "headingKeywords": {}
+    }
+  ]
+}
