@@ -4,13 +4,13 @@
 
 <header fixed>
   <navbar type="dark">
-    <a slot="brand" href="{{baseUrl}}/index.html" title="Home" class="navbar-brand">Your Logo</a>
-    <li><a href="{{baseUrl}}/contents/topic1.html" class="nav-link">Topic 1</a></li>
-    <li><a href="{{baseUrl}}/contents/topic2.html" class="nav-link">Topic 2</a></li>
-    <dropdown header="Topic 3" class="nav-link">
-      <li><a href="{{baseUrl}}/contents/topic3a.html" class="dropdown-item">Topic 3a</a></li>
-      <li><a href="{{baseUrl}}/contents/topic3b.html" class="dropdown-item">Topic 3b</a></li>
-    </dropdown>
+    <a slot="brand" href="{{baseUrl}}/index.html" title="Home" class="navbar-brand"><img width="30px" src="{{baseUrl}}/favicon.ico"/></a>
+    <li><a href="{{baseUrl}}/contents/q1.html" class="nav-link">Monkey-Business</a></li>
+    <li><a href="{{baseUrl}}/contents/q2.html" class="nav-link">Karaoke</a></li>
+    <li><a href="{{baseUrl}}/contents/q3.html" class="nav-link">Comedy Nights</a></li>
+    <li><a href="{{baseUrl}}/contents/q4.html" class="nav-link">Stop It!</a></li>
+    <li><a href="{{baseUrl}}/contents/q5.html" class="nav-link">Tareefan</a></li>
+    <li><a href="{{baseUrl}}/contents/q6.html" class="nav-link">Holibae</a></li>
     <li slot="right">
       <form class="navbar-form">
         <searchbar :data="searchData" placeholder="Search" :on-hit="searchCallback" menu-align-right></searchbar>
@@ -21,28 +21,21 @@
 
 <div id="flex-body">
   <nav id="site-nav" class="fixed-header-padding">
-    <div class="site-nav-top">
-      <div class="font-weight-bold mb-2" style="font-size: 1.25rem;">Template</div>
-    </div>
     <div class="nav-component slim-scroll">
       <site-nav>
-* [Home :house:]({{ baseUrl }}/index.html)
-* [Topic 1]({{baseUrl}}/contents/topic1.html)
-* [Topic 2]({{baseUrl}}/contents/topic2.html)
-* Topic 3 :expanded:
-  * [Topic 3a]({{baseUrl}}/contents/topic3a.html)
-  * [Topic 3b]({{baseUrl}}/contents/topic3b.html)
+* [Home]({{ baseUrl }}/index.html)
+* [Monkey-Business]({{baseUrl}}/contents/q1.html)
+* [Karaoke]({{baseUrl}}/contents/q2.html)
+* [Comedy Nights]({{baseUrl}}/contents/q3.html)
+* [Stop It!]({{baseUrl}}/contents/q4.html)
+* [Tareefan]({{baseUrl}}/contents/q5.html)
+* [Holibae]({{baseUrl}}/contents/q6.html)
       </site-nav>
     </div>
   </nav>
   <div id="content-wrapper" class="fixed-header-padding">
     {{ content }}
   </div>
-  <nav id="page-nav" class="fixed-header-padding">
-    <div class="nav-component slim-scroll">
-      <page-nav />
-    </div>
-  </nav>
 </div>
 
 <footer>

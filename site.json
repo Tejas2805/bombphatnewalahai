@@ -1,6 +1,9 @@
 {
   "baseUrl": "/bombphatnewalahai",
   "titlePrefix": "",
+  "style": {
+    "bootstrapTheme": "bootswatch-cerulean"
+  },
   "ignore": [
     "_markbind/layouts/*",
     "_markbind/logs/*",
@@ -15,7 +18,7 @@
   "pages": [
     {
       "src": "index.md",
-      "title": "Landing Page"
+      "title": "Happy Birthday"
     },
     {
       "glob": ["**/index.md", "**/*.+(md|mbd)"]

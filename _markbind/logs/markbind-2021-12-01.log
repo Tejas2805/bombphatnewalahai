@@ -1,0 +1,586 @@
+2021-12-01T08:00:45.784Z - info: Website generation started at 3:00:45 AM
+2021-12-01T08:00:45.838Z - info: Building assets...
+2021-12-01T08:00:45.862Z - info: Assets built
+2021-12-01T08:00:45.863Z - info: Generating pages...
+2021-12-01T08:00:46.054Z - info: Pages built
+2021-12-01T08:00:46.114Z - info: Site data built
+2021-12-01T08:00:46.114Z - info: Website generation complete! Total build time: 0.364s
+2021-12-01T08:00:46.193Z - info: Serving "/Users/tejasbhuwania/Desktop/BombBoom/_site" at http://127.0.0.1:8080
+2021-12-01T08:00:46.193Z - info: Press CTRL+C to stop ...
+2021-12-01T08:01:13.882Z - info: Deployed at https://tejas2805.github.io/bombphatnewalahai!
+2021-12-01T08:05:22.540Z - info: Website generation started at 3:05:22 AM
+2021-12-01T08:05:22.605Z - info: Building assets...
+2021-12-01T08:05:22.634Z - info: Assets built
+2021-12-01T08:05:22.634Z - info: Generating pages...
+2021-12-01T08:05:22.860Z - info: Pages built
+2021-12-01T08:05:22.935Z - info: Site data built
+2021-12-01T08:05:22.935Z - info: Website generation complete! Total build time: 0.438s
+2021-12-01T08:05:22.958Z - info: Serving "/Users/tejasbhuwania/Desktop/BombBoom/_site" at http://127.0.0.1:8080
+2021-12-01T08:05:22.959Z - info: Press CTRL+C to stop ...
+2021-12-01T08:09:33.794Z - info: Website generation started at 3:09:33 AM
+2021-12-01T08:09:33.865Z - info: Building assets...
+2021-12-01T08:09:33.911Z - info: Assets built
+2021-12-01T08:09:33.912Z - info: Generating pages...
+2021-12-01T08:09:34.120Z - info: Pages built
+2021-12-01T08:09:34.179Z - info: Site data built
+2021-12-01T08:09:34.179Z - info: Website generation complete! Total build time: 0.431s
+2021-12-01T08:09:34.198Z - info: Serving "/Users/tejasbhuwania/Desktop/BombBoom/_site" at http://127.0.0.1:8080
+2021-12-01T08:09:34.199Z - info: Press CTRL+C to stop ...
+2021-12-01T08:11:43.008Z - info: [3:11:42 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/_markbind/layouts/default.md
+2021-12-01T08:11:44.092Z - info: Rebuilding 5 pages
+2021-12-01T08:11:44.391Z - info: Site data built
+2021-12-01T08:11:44.391Z - info: Pages rebuilt
+2021-12-01T08:11:44.391Z - info: Website regeneration complete! Total build time: 0.301s
+2021-12-01T08:12:23.794Z - info: Deployed at https://tejas2805.github.io/bombphatnewalahai!
+2021-12-01T08:23:32.626Z - info: Website generation started at 3:23:32 AM
+2021-12-01T08:23:32.687Z - info: Building assets...
+2021-12-01T08:23:32.717Z - info: Assets built
+2021-12-01T08:23:32.718Z - info: Generating pages...
+2021-12-01T08:23:32.933Z - info: Pages built
+2021-12-01T08:23:33.004Z - info: Site data built
+2021-12-01T08:23:33.004Z - info: Website generation complete! Total build time: 0.421s
+2021-12-01T08:23:33.020Z - info: Serving "/Users/tejasbhuwania/Desktop/BombBoom/_site" at http://127.0.0.1:8080
+2021-12-01T08:23:33.021Z - info: Press CTRL+C to stop ...
+2021-12-01T08:24:03.885Z - info: [3:24:03 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/_markbind/layouts/default.md
+2021-12-01T08:24:04.926Z - info: Rebuilding 5 pages
+2021-12-01T08:24:05.142Z - info: Site data built
+2021-12-01T08:24:05.143Z - info: Pages rebuilt
+2021-12-01T08:24:05.143Z - info: Website regeneration complete! Total build time: 0.219s
+2021-12-01T08:25:03.174Z - info: [3:25:03 AM] Reload for file deletion: /Users/tejasbhuwania/Desktop/BombBoom/contents/topic1.md
+2021-12-01T08:25:03.175Z - info: [3:25:03 AM] Reload for file add: /Users/tejasbhuwania/Desktop/BombBoom/contents/q1.md
+2021-12-01T08:25:04.185Z - info: Pages or site config modified, updating pages...
+2021-12-01T08:25:05.197Z - debug: Assets removed
+2021-12-01T08:25:05.198Z - warn: Rebuilding all pages...
+2021-12-01T08:25:05.198Z - info: Generating pages...
+2021-12-01T08:25:05.233Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/bombphatnewalahai/contents/topic1.html' found in file '/Users/tejasbhuwania/Desktop/BombBoom/_markbind/layouts/default.md'
+2021-12-01T08:25:05.253Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/bombphatnewalahai/contents/topic1.html' found in file '/Users/tejasbhuwania/Desktop/BombBoom/_markbind/layouts/default.md'
+2021-12-01T08:25:05.338Z - info: Pages built
+2021-12-01T08:25:09.688Z - info: [3:25:09 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/_markbind/layouts/default.md
+2021-12-01T08:25:10.706Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/bombphatnewalahai/contents/topic1.html' found in file '/Users/tejasbhuwania/Desktop/BombBoom/_markbind/layouts/default.md'
+2021-12-01T08:25:10.715Z - info: Rebuilding 5 pages
+2021-12-01T08:25:10.822Z - info: Site data built
+2021-12-01T08:25:10.823Z - info: Pages rebuilt
+2021-12-01T08:25:10.823Z - info: Website regeneration complete! Total build time: 0.109s
+2021-12-01T08:25:58.936Z - info: [3:25:58 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q1.md
+2021-12-01T08:25:59.948Z - info: Rebuilding 1 pages
+2021-12-01T08:26:00.012Z - info: Site data built
+2021-12-01T08:26:00.012Z - info: Pages rebuilt
+2021-12-01T08:26:00.012Z - info: Website regeneration complete! Total build time: 0.068s
+2021-12-01T08:27:04.397Z - info: [3:27:04 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/_markbind/layouts/default.md
+2021-12-01T08:27:05.431Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/bombphatnewalahai/contents/topic1.html' found in file '/Users/tejasbhuwania/Desktop/BombBoom/_markbind/layouts/default.md'
+2021-12-01T08:27:05.441Z - info: Rebuilding 5 pages
+2021-12-01T08:27:05.562Z - info: Site data built
+2021-12-01T08:27:05.562Z - info: Pages rebuilt
+2021-12-01T08:27:05.562Z - info: Website regeneration complete! Total build time: 0.122s
+2021-12-01T08:27:52.023Z - info: [3:27:52 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/_markbind/layouts/default.md
+2021-12-01T08:27:53.061Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/bombphatnewalahai/contents/q2.html' found in file '/Users/tejasbhuwania/Desktop/BombBoom/_markbind/layouts/default.md'
+2021-12-01T08:27:53.062Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/bombphatnewalahai/contents/q3.html' found in file '/Users/tejasbhuwania/Desktop/BombBoom/_markbind/layouts/default.md'
+2021-12-01T08:27:53.062Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/bombphatnewalahai/contents/q4.html' found in file '/Users/tejasbhuwania/Desktop/BombBoom/_markbind/layouts/default.md'
+2021-12-01T08:27:53.063Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/bombphatnewalahai/contents/q5.html' found in file '/Users/tejasbhuwania/Desktop/BombBoom/_markbind/layouts/default.md'
+2021-12-01T08:27:53.063Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/bombphatnewalahai/contents/q6.html' found in file '/Users/tejasbhuwania/Desktop/BombBoom/_markbind/layouts/default.md'
+2021-12-01T08:27:53.079Z - info: Rebuilding 5 pages
+2021-12-01T08:27:53.185Z - info: Site data built
+2021-12-01T08:27:53.185Z - info: Pages rebuilt
+2021-12-01T08:27:53.185Z - info: Website regeneration complete! Total build time: 0.107s
+2021-12-01T08:31:15.069Z - info: [3:31:15 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/_markbind/layouts/default.md
+2021-12-01T08:31:16.116Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/bombphatnewalahai/contents/q2.html' found in file '/Users/tejasbhuwania/Desktop/BombBoom/_markbind/layouts/default.md'
+2021-12-01T08:31:16.117Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/bombphatnewalahai/contents/q3.html' found in file '/Users/tejasbhuwania/Desktop/BombBoom/_markbind/layouts/default.md'
+2021-12-01T08:31:16.117Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/bombphatnewalahai/contents/q4.html' found in file '/Users/tejasbhuwania/Desktop/BombBoom/_markbind/layouts/default.md'
+2021-12-01T08:31:16.117Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/bombphatnewalahai/contents/q5.html' found in file '/Users/tejasbhuwania/Desktop/BombBoom/_markbind/layouts/default.md'
+2021-12-01T08:31:16.118Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/bombphatnewalahai/contents/q6.html' found in file '/Users/tejasbhuwania/Desktop/BombBoom/_markbind/layouts/default.md'
+2021-12-01T08:31:16.128Z - info: Rebuilding 5 pages
+2021-12-01T08:31:16.247Z - info: Site data built
+2021-12-01T08:31:16.248Z - info: Pages rebuilt
+2021-12-01T08:31:16.248Z - info: Website regeneration complete! Total build time: 0.121s
+2021-12-01T08:31:34.704Z - info: [3:31:34 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/_markbind/layouts/default.md
+2021-12-01T08:31:35.754Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/bombphatnewalahai/contents/q2.html' found in file '/Users/tejasbhuwania/Desktop/BombBoom/_markbind/layouts/default.md'
+2021-12-01T08:31:35.755Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/bombphatnewalahai/contents/q3.html' found in file '/Users/tejasbhuwania/Desktop/BombBoom/_markbind/layouts/default.md'
+2021-12-01T08:31:35.755Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/bombphatnewalahai/contents/q4.html' found in file '/Users/tejasbhuwania/Desktop/BombBoom/_markbind/layouts/default.md'
+2021-12-01T08:31:35.755Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/bombphatnewalahai/contents/q5.html' found in file '/Users/tejasbhuwania/Desktop/BombBoom/_markbind/layouts/default.md'
+2021-12-01T08:31:35.756Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/bombphatnewalahai/contents/q6.html' found in file '/Users/tejasbhuwania/Desktop/BombBoom/_markbind/layouts/default.md'
+2021-12-01T08:31:35.768Z - info: Rebuilding 5 pages
+2021-12-01T08:31:35.888Z - info: Site data built
+2021-12-01T08:31:35.889Z - info: Pages rebuilt
+2021-12-01T08:31:35.889Z - info: Website regeneration complete! Total build time: 0.122s
+2021-12-01T08:31:48.709Z - info: [3:31:48 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/_markbind/layouts/default.md
+2021-12-01T08:31:49.741Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/bombphatnewalahai/contents/q2.html' found in file '/Users/tejasbhuwania/Desktop/BombBoom/_markbind/layouts/default.md'
+2021-12-01T08:31:49.744Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/bombphatnewalahai/contents/q3.html' found in file '/Users/tejasbhuwania/Desktop/BombBoom/_markbind/layouts/default.md'
+2021-12-01T08:31:49.746Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/bombphatnewalahai/contents/q4.html' found in file '/Users/tejasbhuwania/Desktop/BombBoom/_markbind/layouts/default.md'
+2021-12-01T08:31:49.748Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/bombphatnewalahai/contents/q5.html' found in file '/Users/tejasbhuwania/Desktop/BombBoom/_markbind/layouts/default.md'
+2021-12-01T08:31:49.749Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/bombphatnewalahai/contents/q6.html' found in file '/Users/tejasbhuwania/Desktop/BombBoom/_markbind/layouts/default.md'
+2021-12-01T08:31:49.764Z - info: Rebuilding 5 pages
+2021-12-01T08:31:49.938Z - info: Site data built
+2021-12-01T08:31:49.938Z - info: Pages rebuilt
+2021-12-01T08:31:49.938Z - info: Website regeneration complete! Total build time: 0.175s
+2021-12-01T08:33:33.285Z - info: Deployed at https://tejas2805.github.io/bombphatnewalahai!
+2021-12-01T08:33:39.841Z - info: Website generation started at 3:33:39 AM
+2021-12-01T08:33:39.903Z - info: Building assets...
+2021-12-01T08:33:39.928Z - info: Assets built
+2021-12-01T08:33:39.928Z - info: Generating pages...
+2021-12-01T08:33:39.972Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/bombphatnewalahai/contents/q2.html' found in file '/Users/tejasbhuwania/Desktop/BombBoom/_markbind/layouts/default.md'
+2021-12-01T08:33:39.972Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/bombphatnewalahai/contents/q3.html' found in file '/Users/tejasbhuwania/Desktop/BombBoom/_markbind/layouts/default.md'
+2021-12-01T08:33:39.973Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/bombphatnewalahai/contents/q4.html' found in file '/Users/tejasbhuwania/Desktop/BombBoom/_markbind/layouts/default.md'
+2021-12-01T08:33:39.973Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/bombphatnewalahai/contents/q5.html' found in file '/Users/tejasbhuwania/Desktop/BombBoom/_markbind/layouts/default.md'
+2021-12-01T08:33:39.973Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/bombphatnewalahai/contents/q6.html' found in file '/Users/tejasbhuwania/Desktop/BombBoom/_markbind/layouts/default.md'
+2021-12-01T08:33:40.128Z - info: Pages built
+2021-12-01T08:33:40.189Z - info: Site data built
+2021-12-01T08:33:40.190Z - info: Website generation complete! Total build time: 0.381s
+2021-12-01T08:33:40.209Z - info: Serving "/Users/tejasbhuwania/Desktop/BombBoom/_site" at http://127.0.0.1:8080
+2021-12-01T08:33:40.210Z - info: Press CTRL+C to stop ...
+2021-12-01T08:34:48.244Z - info: [3:34:48 AM] Reload for file deletion: /Users/tejasbhuwania/Desktop/BombBoom/contents/topic2.md
+2021-12-01T08:34:48.251Z - info: [3:34:48 AM] Reload for file add: /Users/tejasbhuwania/Desktop/BombBoom/contents/q2.md
+2021-12-01T08:34:49.266Z - info: Pages or site config modified, updating pages...
+2021-12-01T08:34:50.276Z - debug: Assets removed
+2021-12-01T08:34:50.276Z - warn: Rebuilding all pages...
+2021-12-01T08:34:50.276Z - info: Generating pages...
+2021-12-01T08:34:50.310Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/bombphatnewalahai/contents/q3.html' found in file '/Users/tejasbhuwania/Desktop/BombBoom/_markbind/layouts/default.md'
+2021-12-01T08:34:50.310Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/bombphatnewalahai/contents/q4.html' found in file '/Users/tejasbhuwania/Desktop/BombBoom/_markbind/layouts/default.md'
+2021-12-01T08:34:50.312Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/bombphatnewalahai/contents/q5.html' found in file '/Users/tejasbhuwania/Desktop/BombBoom/_markbind/layouts/default.md'
+2021-12-01T08:34:50.312Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/bombphatnewalahai/contents/q6.html' found in file '/Users/tejasbhuwania/Desktop/BombBoom/_markbind/layouts/default.md'
+2021-12-01T08:34:50.318Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/bombphatnewalahai/contents/topic2.html' found in file '/Users/tejasbhuwania/Desktop/BombBoom/_markbind/layouts/default.md'
+2021-12-01T08:34:50.413Z - info: Pages built
+2021-12-01T08:34:54.365Z - info: [3:34:54 AM] Reload for file deletion: /Users/tejasbhuwania/Desktop/BombBoom/contents/topic3a.md
+2021-12-01T08:34:54.366Z - info: [3:34:54 AM] Reload for file add: /Users/tejasbhuwania/Desktop/BombBoom/contents/q3.md
+2021-12-01T08:34:55.373Z - info: Pages or site config modified, updating pages...
+2021-12-01T08:34:56.381Z - debug: Assets removed
+2021-12-01T08:34:56.381Z - warn: Rebuilding all pages...
+2021-12-01T08:34:56.381Z - info: Generating pages...
+2021-12-01T08:34:56.395Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/bombphatnewalahai/contents/q4.html' found in file '/Users/tejasbhuwania/Desktop/BombBoom/_markbind/layouts/default.md'
+2021-12-01T08:34:56.396Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/bombphatnewalahai/contents/q5.html' found in file '/Users/tejasbhuwania/Desktop/BombBoom/_markbind/layouts/default.md'
+2021-12-01T08:34:56.396Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/bombphatnewalahai/contents/q6.html' found in file '/Users/tejasbhuwania/Desktop/BombBoom/_markbind/layouts/default.md'
+2021-12-01T08:34:56.400Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/bombphatnewalahai/contents/topic2.html' found in file '/Users/tejasbhuwania/Desktop/BombBoom/_markbind/layouts/default.md'
+2021-12-01T08:34:56.403Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/bombphatnewalahai/contents/topic3a.html' found in file '/Users/tejasbhuwania/Desktop/BombBoom/_markbind/layouts/default.md'
+2021-12-01T08:34:56.463Z - info: Pages built
+2021-12-01T08:35:01.314Z - info: [3:35:01 AM] Reload for file deletion: /Users/tejasbhuwania/Desktop/BombBoom/contents/topic3b.md
+2021-12-01T08:35:01.316Z - info: [3:35:01 AM] Reload for file add: /Users/tejasbhuwania/Desktop/BombBoom/contents/q4.md
+2021-12-01T08:35:02.321Z - info: Pages or site config modified, updating pages...
+2021-12-01T08:35:03.329Z - debug: Assets removed
+2021-12-01T08:35:03.329Z - warn: Rebuilding all pages...
+2021-12-01T08:35:03.329Z - info: Generating pages...
+2021-12-01T08:35:03.379Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/bombphatnewalahai/contents/q5.html' found in file '/Users/tejasbhuwania/Desktop/BombBoom/_markbind/layouts/default.md'
+2021-12-01T08:35:03.379Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/bombphatnewalahai/contents/q6.html' found in file '/Users/tejasbhuwania/Desktop/BombBoom/_markbind/layouts/default.md'
+2021-12-01T08:35:03.391Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/bombphatnewalahai/contents/topic2.html' found in file '/Users/tejasbhuwania/Desktop/BombBoom/_markbind/layouts/default.md'
+2021-12-01T08:35:03.391Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/bombphatnewalahai/contents/topic3a.html' found in file '/Users/tejasbhuwania/Desktop/BombBoom/_markbind/layouts/default.md'
+2021-12-01T08:35:03.392Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/bombphatnewalahai/contents/topic3b.html' found in file '/Users/tejasbhuwania/Desktop/BombBoom/_markbind/layouts/default.md'
+2021-12-01T08:35:03.510Z - info: Pages built
+2021-12-01T08:35:04.189Z - info: [3:35:04 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/_markbind/layouts/default.md
+2021-12-01T08:35:04.289Z - info: [3:35:04 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/_markbind/layouts/default.md
+2021-12-01T08:35:05.203Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/bombphatnewalahai/contents/q5.html' found in file '/Users/tejasbhuwania/Desktop/BombBoom/_markbind/layouts/default.md'
+2021-12-01T08:35:05.203Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/bombphatnewalahai/contents/q6.html' found in file '/Users/tejasbhuwania/Desktop/BombBoom/_markbind/layouts/default.md'
+2021-12-01T08:35:05.210Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/bombphatnewalahai/contents/q5.html' found in file '/Users/tejasbhuwania/Desktop/BombBoom/_markbind/layouts/default.md'
+2021-12-01T08:35:05.210Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/bombphatnewalahai/contents/q6.html' found in file '/Users/tejasbhuwania/Desktop/BombBoom/_markbind/layouts/default.md'
+2021-12-01T08:35:05.212Z - info: Rebuilding 5 pages
+2021-12-01T08:35:05.295Z - info: Site data built
+2021-12-01T08:35:05.295Z - info: Pages rebuilt
+2021-12-01T08:35:05.295Z - info: Website regeneration complete! Total build time: 0.084s
+2021-12-01T08:35:29.448Z - info: [3:35:29 AM] Reload for file add: /Users/tejasbhuwania/Desktop/BombBoom/contents/q4 copy.md
+2021-12-01T08:35:29.473Z - info: [3:35:29 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q4 copy.md
+2021-12-01T08:35:30.476Z - info: Pages or site config modified, updating pages...
+2021-12-01T08:35:30.498Z - info: Assets built
+2021-12-01T08:35:30.856Z - info: [3:35:30 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q4 copy.md
+2021-12-01T08:35:30.858Z - info: [3:35:30 AM] Reload for file add: /Users/tejasbhuwania/Desktop/BombBoom/contents/q4 copy 2.md
+2021-12-01T08:35:30.863Z - info: [3:35:30 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q4 copy 2.md
+2021-12-01T08:35:31.492Z - warn: Rebuilding all pages...
+2021-12-01T08:35:31.492Z - info: Generating pages...
+2021-12-01T08:35:31.546Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/bombphatnewalahai/contents/q5.html' found in file '/Users/tejasbhuwania/Desktop/BombBoom/_markbind/layouts/default.md'
+2021-12-01T08:35:31.546Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/bombphatnewalahai/contents/q6.html' found in file '/Users/tejasbhuwania/Desktop/BombBoom/_markbind/layouts/default.md'
+2021-12-01T08:35:31.553Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/bombphatnewalahai/contents/q5.html' found in file '/Users/tejasbhuwania/Desktop/BombBoom/_markbind/layouts/default.md'
+2021-12-01T08:35:31.554Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/bombphatnewalahai/contents/q6.html' found in file '/Users/tejasbhuwania/Desktop/BombBoom/_markbind/layouts/default.md'
+2021-12-01T08:35:31.702Z - info: Pages built
+2021-12-01T08:35:31.859Z - info: Assets built
+2021-12-01T08:35:31.864Z - info: Pages or site config modified, updating pages...
+2021-12-01T08:35:32.868Z - warn: Rebuilding all pages...
+2021-12-01T08:35:32.869Z - info: Generating pages...
+2021-12-01T08:35:32.891Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/bombphatnewalahai/contents/q5.html' found in file '/Users/tejasbhuwania/Desktop/BombBoom/_markbind/layouts/default.md'
+2021-12-01T08:35:32.892Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/bombphatnewalahai/contents/q6.html' found in file '/Users/tejasbhuwania/Desktop/BombBoom/_markbind/layouts/default.md'
+2021-12-01T08:35:32.905Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/bombphatnewalahai/contents/q5.html' found in file '/Users/tejasbhuwania/Desktop/BombBoom/_markbind/layouts/default.md'
+2021-12-01T08:35:32.906Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/bombphatnewalahai/contents/q6.html' found in file '/Users/tejasbhuwania/Desktop/BombBoom/_markbind/layouts/default.md'
+2021-12-01T08:35:32.976Z - info: Pages built
+2021-12-01T08:35:39.133Z - info: [3:35:39 AM] Reload for file deletion: /Users/tejasbhuwania/Desktop/BombBoom/contents/q4 copy.md
+2021-12-01T08:35:39.133Z - info: [3:35:39 AM] Reload for file add: /Users/tejasbhuwania/Desktop/BombBoom/contents/q5.md
+2021-12-01T08:35:40.144Z - info: Pages or site config modified, updating pages...
+2021-12-01T08:35:41.153Z - debug: Assets removed
+2021-12-01T08:35:41.153Z - warn: Rebuilding all pages...
+2021-12-01T08:35:41.154Z - info: Generating pages...
+2021-12-01T08:35:41.179Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/bombphatnewalahai/contents/q6.html' found in file '/Users/tejasbhuwania/Desktop/BombBoom/_markbind/layouts/default.md'
+2021-12-01T08:35:41.183Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/bombphatnewalahai/contents/q6.html' found in file '/Users/tejasbhuwania/Desktop/BombBoom/_markbind/layouts/default.md'
+2021-12-01T08:35:41.285Z - info: Pages built
+2021-12-01T08:35:44.234Z - info: [3:35:44 AM] Reload for file deletion: /Users/tejasbhuwania/Desktop/BombBoom/contents/q4 copy 2.md
+2021-12-01T08:35:44.236Z - info: [3:35:44 AM] Reload for file add: /Users/tejasbhuwania/Desktop/BombBoom/contents/q6.md
+2021-12-01T08:35:45.250Z - info: Pages or site config modified, updating pages...
+2021-12-01T08:35:46.257Z - debug: Assets removed
+2021-12-01T08:35:46.257Z - warn: Rebuilding all pages...
+2021-12-01T08:35:46.257Z - info: Generating pages...
+2021-12-01T08:35:46.399Z - info: Pages built
+2021-12-01T08:36:48.898Z - info: [3:36:48 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/_markbind/layouts/default.md
+2021-12-01T08:36:49.942Z - info: Rebuilding 7 pages
+2021-12-01T08:36:50.068Z - info: Site data built
+2021-12-01T08:36:50.068Z - info: Pages rebuilt
+2021-12-01T08:36:50.068Z - info: Website regeneration complete! Total build time: 0.127s
+2021-12-01T08:37:27.029Z - info: [3:37:27 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/_markbind/layouts/default.md
+2021-12-01T08:37:28.062Z - info: Rebuilding 7 pages
+2021-12-01T08:37:28.192Z - info: Site data built
+2021-12-01T08:37:28.192Z - info: Pages rebuilt
+2021-12-01T08:37:28.193Z - info: Website regeneration complete! Total build time: 0.131s
+2021-12-01T08:41:52.163Z - warn: Command 'seploy' doesn't exist, run "markbind --help" to list commands.
+2021-12-01T08:41:58.375Z - info: Deployed at https://tejas2805.github.io/bombphatnewalahai!
+2021-12-01T08:44:45.220Z - info: Website generation started at 3:44:45 AM
+2021-12-01T08:44:45.280Z - info: Building assets...
+2021-12-01T08:44:45.316Z - info: Assets built
+2021-12-01T08:44:45.318Z - info: Generating pages...
+2021-12-01T08:44:45.557Z - info: Pages built
+2021-12-01T08:44:45.657Z - info: Site data built
+2021-12-01T08:44:45.657Z - info: Website generation complete! Total build time: 0.481s
+2021-12-01T08:44:45.682Z - info: Serving "/Users/tejasbhuwania/Desktop/BombBoom/_site" at http://127.0.0.1:8080
+2021-12-01T08:44:45.682Z - info: Press CTRL+C to stop ...
+2021-12-01T08:48:56.916Z - info: [3:48:56 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q1.md
+2021-12-01T08:48:57.966Z - info: Rebuilding 1 pages
+2021-12-01T08:48:58.051Z - info: Site data built
+2021-12-01T08:48:58.051Z - info: Pages rebuilt
+2021-12-01T08:48:58.052Z - info: Website regeneration complete! Total build time: 0.101s
+2021-12-01T08:49:31.389Z - info: [3:49:31 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q1.md
+2021-12-01T08:49:32.395Z - info: Rebuilding 1 pages
+2021-12-01T08:49:32.453Z - info: Site data built
+2021-12-01T08:49:32.453Z - info: Pages rebuilt
+2021-12-01T08:49:32.453Z - info: Website regeneration complete! Total build time: 0.06s
+2021-12-01T08:49:38.625Z - info: [3:49:38 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q1.md
+2021-12-01T08:49:39.633Z - info: Rebuilding 1 pages
+2021-12-01T08:49:39.662Z - info: Site data built
+2021-12-01T08:49:39.663Z - info: Pages rebuilt
+2021-12-01T08:49:39.663Z - info: Website regeneration complete! Total build time: 0.032s
+2021-12-01T08:50:06.695Z - info: [3:50:06 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q1.md
+2021-12-01T08:50:07.704Z - info: Rebuilding 1 pages
+2021-12-01T08:50:07.750Z - info: Site data built
+2021-12-01T08:50:07.750Z - info: Pages rebuilt
+2021-12-01T08:50:07.750Z - info: Website regeneration complete! Total build time: 0.05s
+2021-12-01T08:50:12.349Z - info: [3:50:12 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q1.md
+2021-12-01T08:50:13.358Z - info: Rebuilding 1 pages
+2021-12-01T08:50:13.395Z - info: Site data built
+2021-12-01T08:50:13.395Z - info: Pages rebuilt
+2021-12-01T08:50:13.395Z - info: Website regeneration complete! Total build time: 0.04s
+2021-12-01T08:50:30.303Z - info: [3:50:30 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q1.md
+2021-12-01T08:50:31.310Z - info: Rebuilding 1 pages
+2021-12-01T08:50:31.344Z - info: Site data built
+2021-12-01T08:50:31.344Z - info: Pages rebuilt
+2021-12-01T08:50:31.344Z - info: Website regeneration complete! Total build time: 0.035s
+2021-12-01T08:51:29.665Z - info: [3:51:29 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q1.md
+2021-12-01T08:51:30.672Z - info: Rebuilding 1 pages
+2021-12-01T08:51:30.724Z - info: Site data built
+2021-12-01T08:51:30.724Z - info: Pages rebuilt
+2021-12-01T08:51:30.724Z - info: Website regeneration complete! Total build time: 0.055s
+2021-12-01T08:52:21.281Z - info: [3:52:21 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q1.md
+2021-12-01T08:52:22.286Z - info: Rebuilding 1 pages
+2021-12-01T08:52:22.326Z - info: Site data built
+2021-12-01T08:52:22.326Z - info: Pages rebuilt
+2021-12-01T08:52:22.327Z - info: Website regeneration complete! Total build time: 0.042s
+2021-12-01T08:52:33.652Z - info: [3:52:33 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q1.md
+2021-12-01T08:52:34.656Z - info: Rebuilding 1 pages
+2021-12-01T08:52:34.691Z - info: Site data built
+2021-12-01T08:52:34.691Z - info: Pages rebuilt
+2021-12-01T08:52:34.691Z - info: Website regeneration complete! Total build time: 0.037s
+2021-12-01T08:52:46.092Z - info: [3:52:46 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q1.md
+2021-12-01T08:52:47.100Z - info: Rebuilding 1 pages
+2021-12-01T08:52:47.133Z - info: Site data built
+2021-12-01T08:52:47.133Z - info: Pages rebuilt
+2021-12-01T08:52:47.134Z - info: Website regeneration complete! Total build time: 0.035s
+2021-12-01T08:53:17.555Z - info: [3:53:17 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q1.md
+2021-12-01T08:53:18.562Z - info: Rebuilding 1 pages
+2021-12-01T08:53:18.590Z - info: Site data built
+2021-12-01T08:53:18.590Z - info: Pages rebuilt
+2021-12-01T08:53:18.591Z - info: Website regeneration complete! Total build time: 0.03s
+2021-12-01T08:54:38.086Z - info: [3:54:38 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q1.md
+2021-12-01T08:54:39.109Z - info: Rebuilding 1 pages
+2021-12-01T08:54:39.180Z - info: Site data built
+2021-12-01T08:54:39.180Z - info: Pages rebuilt
+2021-12-01T08:54:39.180Z - info: Website regeneration complete! Total build time: 0.082s
+2021-12-01T08:54:52.454Z - info: [3:54:52 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q1.md
+2021-12-01T08:54:53.459Z - info: Rebuilding 1 pages
+2021-12-01T08:54:53.494Z - info: Site data built
+2021-12-01T08:54:53.494Z - info: Pages rebuilt
+2021-12-01T08:54:53.494Z - info: Website regeneration complete! Total build time: 0.037s
+2021-12-01T08:55:10.866Z - info: [3:55:10 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q1.md
+2021-12-01T08:55:11.871Z - info: Rebuilding 1 pages
+2021-12-01T08:55:11.916Z - info: Site data built
+2021-12-01T08:55:11.917Z - info: Pages rebuilt
+2021-12-01T08:55:11.917Z - info: Website regeneration complete! Total build time: 0.047s
+2021-12-01T08:55:22.994Z - info: [3:55:22 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q1.md
+2021-12-01T08:55:24.001Z - info: Rebuilding 1 pages
+2021-12-01T08:55:24.039Z - info: Site data built
+2021-12-01T08:55:24.039Z - info: Pages rebuilt
+2021-12-01T08:55:24.040Z - info: Website regeneration complete! Total build time: 0.039s
+2021-12-01T08:55:35.358Z - info: [3:55:35 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q1.md
+2021-12-01T08:55:36.362Z - info: Rebuilding 1 pages
+2021-12-01T08:55:36.388Z - info: Site data built
+2021-12-01T08:55:36.389Z - info: Pages rebuilt
+2021-12-01T08:55:36.389Z - info: Website regeneration complete! Total build time: 0.028s
+2021-12-01T08:55:46.762Z - info: [3:55:46 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q1.md
+2021-12-01T08:55:47.769Z - info: Rebuilding 1 pages
+2021-12-01T08:55:47.807Z - info: Site data built
+2021-12-01T08:55:47.807Z - info: Pages rebuilt
+2021-12-01T08:55:47.807Z - info: Website regeneration complete! Total build time: 0.039s
+2021-12-01T08:56:08.905Z - info: [3:56:08 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q1.md
+2021-12-01T08:56:09.911Z - info: Rebuilding 1 pages
+2021-12-01T08:56:09.939Z - info: Site data built
+2021-12-01T08:56:09.939Z - info: Pages rebuilt
+2021-12-01T08:56:09.940Z - info: Website regeneration complete! Total build time: 0.029s
+2021-12-01T08:58:20.287Z - info: [3:58:20 AM] Reload for file add: /Users/tejasbhuwania/Desktop/BombBoom/images.jpeg
+2021-12-01T08:58:20.303Z - info: [3:58:20 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/images.jpeg
+2021-12-01T08:58:21.376Z - info: Assets built
+2021-12-01T08:58:29.145Z - info: [3:58:29 AM] Reload for file deletion: /Users/tejasbhuwania/Desktop/BombBoom/images.jpeg
+2021-12-01T08:58:29.148Z - info: [3:58:29 AM] Reload for file add: /Users/tejasbhuwania/Desktop/BombBoom/favicon.ico
+2021-12-01T08:58:30.163Z - debug: Assets removed
+2021-12-01T08:58:30.165Z - info: Assets built
+2021-12-01T08:58:58.571Z - info: [3:58:58 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/_markbind/layouts/default.md
+2021-12-01T08:58:59.668Z - info: Rebuilding 7 pages
+2021-12-01T08:58:59.844Z - info: Site data built
+2021-12-01T08:58:59.844Z - info: Pages rebuilt
+2021-12-01T08:58:59.845Z - info: Website regeneration complete! Total build time: 0.178s
+2021-12-01T09:00:15.509Z - info: [4:00:15 AM] Reload for file add: /Users/tejasbhuwania/Desktop/BombBoom/_markbind/layouts/default.adoc
+2021-12-01T09:00:15.599Z - info: [4:00:15 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/_markbind/layouts/default.adoc
+2021-12-01T09:00:15.928Z - info: [4:00:15 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/_markbind/layouts/default.adoc
+2021-12-01T09:00:16.344Z - info: [4:00:16 AM] Reload for file deletion: /Users/tejasbhuwania/Desktop/BombBoom/_markbind/layouts/default.md
+2021-12-01T09:00:16.523Z - info: Assets built
+2021-12-01T09:00:17.355Z - info: Pages or site config modified, updating pages...
+2021-12-01T09:00:18.375Z - warn: Rebuilding all pages...
+2021-12-01T09:00:18.376Z - info: Generating pages...
+2021-12-01T09:00:18.403Z - error: 'default.md' layout does not exist
+2021-12-01T09:00:18.404Z - error: 'default.md' layout does not exist
+2021-12-01T09:00:18.404Z - error: 'default.md' layout does not exist
+2021-12-01T09:00:18.405Z - error: 'default.md' layout does not exist
+2021-12-01T09:00:18.423Z - error:  TypeError: Cannot read property 'join' of undefined
+    at Page.prepareTemplateData (/usr/local/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/Page/index.js:140:73)
+    at Page.outputPageHtml (/usr/local/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/Page/index.js:525:12)
+    at Page.generate (/usr/local/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/Page/index.js:519:18)
+    at async /usr/local/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/Site/index.js:1167:11
+2021-12-01T09:00:18.428Z - warn:  Error: Error while generating undefined
+    at /usr/local/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/Site/index.js:1175:18
+2021-12-01T09:00:18.430Z - error:  TypeError: Cannot read property 'join' of undefined
+    at Page.prepareTemplateData (/usr/local/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/Page/index.js:140:73)
+    at Page.outputPageHtml (/usr/local/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/Page/index.js:525:12)
+    at Page.generate (/usr/local/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/Page/index.js:519:18)
+    at async /usr/local/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/Site/index.js:1167:11
+2021-12-01T09:00:18.431Z - error:  TypeError: Cannot read property 'join' of undefined
+    at Page.prepareTemplateData (/usr/local/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/Page/index.js:140:73)
+    at Page.outputPageHtml (/usr/local/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/Page/index.js:525:12)
+    at Page.generate (/usr/local/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/Page/index.js:519:18)
+    at async /usr/local/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/Site/index.js:1167:11
+2021-12-01T09:00:18.431Z - error:  TypeError: Cannot read property 'join' of undefined
+    at Page.prepareTemplateData (/usr/local/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/Page/index.js:140:73)
+    at Page.outputPageHtml (/usr/local/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/Page/index.js:525:12)
+    at Page.generate (/usr/local/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/Page/index.js:519:18)
+    at async /usr/local/lib/node_modules/markbind-cli/node_modules/@markbind/core/src/Site/index.js:1167:11
+2021-12-01T09:00:25.072Z - info: [4:00:25 AM] Reload for file add: /Users/tejasbhuwania/Desktop/BombBoom/_markbind/layouts/default.md
+2021-12-01T09:00:26.075Z - info: Assets built
+2021-12-01T09:00:32.545Z - info: [4:00:32 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/_markbind/layouts/default.md
+2021-12-01T09:00:32.545Z - info: [4:00:32 AM] Reload for file deletion: /Users/tejasbhuwania/Desktop/BombBoom/_markbind/layouts/default.adoc
+2021-12-01T09:00:33.547Z - info: Assets built
+2021-12-01T09:00:33.547Z - debug: Assets removed
+2021-12-01T09:00:59.468Z - info: [4:00:59 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/_markbind/layouts/default.md
+2021-12-01T09:01:00.477Z - info: Assets built
+2021-12-01T09:01:37.105Z - info: [4:01:37 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/_markbind/layouts/default.md
+2021-12-01T09:01:38.118Z - info: Assets built
+2021-12-01T09:01:51.716Z - info: Website generation started at 4:01:51 AM
+2021-12-01T09:01:51.850Z - info: Building assets...
+2021-12-01T09:01:51.877Z - info: Assets built
+2021-12-01T09:01:51.877Z - info: Generating pages...
+2021-12-01T09:01:52.081Z - info: Pages built
+2021-12-01T09:01:52.169Z - info: Site data built
+2021-12-01T09:01:52.170Z - info: Website generation complete! Total build time: 0.482s
+2021-12-01T09:01:52.198Z - info: Serving "/Users/tejasbhuwania/Desktop/BombBoom/_site" at http://127.0.0.1:8080
+2021-12-01T09:01:52.198Z - info: Press CTRL+C to stop ...
+2021-12-01T09:03:50.934Z - info: [4:03:50 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/_markbind/layouts/default.md
+2021-12-01T09:03:52.278Z - info: Rebuilding 7 pages
+2021-12-01T09:03:52.426Z - info: Site data built
+2021-12-01T09:03:52.426Z - info: Pages rebuilt
+2021-12-01T09:03:52.426Z - info: Website regeneration complete! Total build time: 0.153s
+2021-12-01T09:04:40.826Z - info: [4:04:40 AM] Reload for file deletion: /Users/tejasbhuwania/Desktop/BombBoom/favicon.ico
+2021-12-01T09:04:41.852Z - debug: Assets removed
+2021-12-01T09:04:42.943Z - info: [4:04:42 AM] Reload for file add: /Users/tejasbhuwania/Desktop/BombBoom/600492-middle.png
+2021-12-01T09:04:43.959Z - info: Assets built
+2021-12-01T09:04:56.436Z - info: [4:04:56 AM] Reload for file deletion: /Users/tejasbhuwania/Desktop/BombBoom/600492-middle.png
+2021-12-01T09:04:56.436Z - info: [4:04:56 AM] Reload for file add: /Users/tejasbhuwania/Desktop/BombBoom/favicon.ico
+2021-12-01T09:04:57.442Z - debug: Assets removed
+2021-12-01T09:04:57.445Z - info: Assets built
+2021-12-01T09:07:49.402Z - info: [4:07:49 AM] Reload for file deletion: /Users/tejasbhuwania/Desktop/BombBoom/favicon.ico
+2021-12-01T09:07:50.429Z - debug: Assets removed
+2021-12-01T09:07:51.159Z - info: [4:07:51 AM] Reload for file add: /Users/tejasbhuwania/Desktop/BombBoom/favicon.ico
+2021-12-01T09:07:52.192Z - info: Assets built
+2021-12-01T09:11:14.613Z - info: [4:11:14 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q2.md
+2021-12-01T09:11:14.626Z - info: [4:11:14 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q5.md
+2021-12-01T09:11:14.627Z - info: [4:11:14 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q3.md
+2021-12-01T09:11:14.627Z - info: [4:11:14 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q4.md
+2021-12-01T09:11:14.627Z - info: [4:11:14 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q6.md
+2021-12-01T09:11:15.752Z - info: Rebuilding 5 pages
+2021-12-01T09:11:16.160Z - info: Site data built
+2021-12-01T09:11:16.161Z - info: Pages rebuilt
+2021-12-01T09:11:16.161Z - info: Website regeneration complete! Total build time: 0.459s
+2021-12-01T09:11:32.704Z - info: Deployed at https://tejas2805.github.io/bombphatnewalahai!
+2021-12-01T09:11:49.245Z - info: Website generation started at 4:11:49 AM
+2021-12-01T09:11:49.310Z - info: Building assets...
+2021-12-01T09:11:49.337Z - info: Assets built
+2021-12-01T09:11:49.338Z - info: Generating pages...
+2021-12-01T09:11:49.567Z - info: Pages built
+2021-12-01T09:11:49.632Z - info: Site data built
+2021-12-01T09:11:49.633Z - info: Website generation complete! Total build time: 0.417s
+2021-12-01T09:11:49.661Z - info: Serving "/Users/tejasbhuwania/Desktop/BombBoom/_site" at http://127.0.0.1:8080
+2021-12-01T09:11:49.662Z - info: Press CTRL+C to stop ...
+2021-12-01T09:16:40.502Z - info: [4:16:40 AM] Reload for file add: /Users/tejasbhuwania/Desktop/BombBoom/images/2b06679e-00ff-44f0-a0b4-7546696a6c2b.jpg
+2021-12-01T09:16:41.577Z - info: Assets built
+2021-12-01T09:16:47.117Z - info: [4:16:47 AM] Reload for file deletion: /Users/tejasbhuwania/Desktop/BombBoom/images/2b06679e-00ff-44f0-a0b4-7546696a6c2b.jpg
+2021-12-01T09:16:47.125Z - info: [4:16:47 AM] Reload for file add: /Users/tejasbhuwania/Desktop/BombBoom/images/tejas.jpg
+2021-12-01T09:16:48.140Z - debug: Assets removed
+2021-12-01T09:16:48.143Z - info: Assets built
+2021-12-01T09:17:31.462Z - info: [4:17:31 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q1.md
+2021-12-01T09:17:32.518Z - info: Rebuilding 1 pages
+2021-12-01T09:17:32.786Z - info: Site data built
+2021-12-01T09:17:32.786Z - info: Pages rebuilt
+2021-12-01T09:17:32.787Z - info: Website regeneration complete! Total build time: 0.283s
+2021-12-01T09:17:46.252Z - info: [4:17:46 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q1.md
+2021-12-01T09:17:47.260Z - info: Rebuilding 1 pages
+2021-12-01T09:17:47.301Z - info: Site data built
+2021-12-01T09:17:47.301Z - info: Pages rebuilt
+2021-12-01T09:17:47.301Z - info: Website regeneration complete! Total build time: 0.043s
+2021-12-01T09:17:53.615Z - info: [4:17:53 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q1.md
+2021-12-01T09:17:54.633Z - info: Rebuilding 1 pages
+2021-12-01T09:17:54.727Z - info: Site data built
+2021-12-01T09:17:54.727Z - info: Pages rebuilt
+2021-12-01T09:17:54.729Z - info: Website regeneration complete! Total build time: 0.103s
+2021-12-01T09:18:07.163Z - info: [4:18:07 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q1.md
+2021-12-01T09:18:08.171Z - info: Rebuilding 1 pages
+2021-12-01T09:18:08.208Z - info: Site data built
+2021-12-01T09:18:08.208Z - info: Pages rebuilt
+2021-12-01T09:18:08.209Z - info: Website regeneration complete! Total build time: 0.04s
+2021-12-01T09:20:52.626Z - info: [4:20:52 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q2.md
+2021-12-01T09:20:53.638Z - info: Rebuilding 1 pages
+2021-12-01T09:20:53.713Z - info: Site data built
+2021-12-01T09:20:53.713Z - info: Pages rebuilt
+2021-12-01T09:20:53.713Z - info: Website regeneration complete! Total build time: 0.079s
+2021-12-01T09:21:02.982Z - info: [4:21:02 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q3.md
+2021-12-01T09:21:03.988Z - info: Rebuilding 1 pages
+2021-12-01T09:21:04.012Z - info: Site data built
+2021-12-01T09:21:04.013Z - info: Pages rebuilt
+2021-12-01T09:21:04.013Z - info: Website regeneration complete! Total build time: 0.026s
+2021-12-01T09:21:25.850Z - info: [4:21:25 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q3.md
+2021-12-01T09:21:25.855Z - info: [4:21:25 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q4.md
+2021-12-01T09:21:26.865Z - info: Rebuilding 2 pages
+2021-12-01T09:21:26.915Z - info: Site data built
+2021-12-01T09:21:26.915Z - info: Pages rebuilt
+2021-12-01T09:21:26.915Z - info: Website regeneration complete! Total build time: 0.052s
+2021-12-01T09:21:38.053Z - info: [4:21:38 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q5.md
+2021-12-01T09:21:39.062Z - info: Rebuilding 1 pages
+2021-12-01T09:21:39.099Z - info: Site data built
+2021-12-01T09:21:39.099Z - info: Pages rebuilt
+2021-12-01T09:21:39.100Z - info: Website regeneration complete! Total build time: 0.04s
+2021-12-01T09:21:52.739Z - info: [4:21:52 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q6.md
+2021-12-01T09:21:53.746Z - info: Rebuilding 1 pages
+2021-12-01T09:21:53.793Z - info: Site data built
+2021-12-01T09:21:53.793Z - info: Pages rebuilt
+2021-12-01T09:21:53.793Z - info: Website regeneration complete! Total build time: 0.049s
+2021-12-01T09:22:03.844Z - info: [4:22:03 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q6.md
+2021-12-01T09:22:04.852Z - info: Rebuilding 1 pages
+2021-12-01T09:22:04.885Z - info: Site data built
+2021-12-01T09:22:04.885Z - info: Pages rebuilt
+2021-12-01T09:22:04.885Z - info: Website regeneration complete! Total build time: 0.035s
+2021-12-01T09:22:29.378Z - info: [4:22:29 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q6.md
+2021-12-01T09:22:30.384Z - info: Rebuilding 1 pages
+2021-12-01T09:22:30.444Z - info: Site data built
+2021-12-01T09:22:30.445Z - info: Pages rebuilt
+2021-12-01T09:22:30.445Z - info: Website regeneration complete! Total build time: 0.062s
+2021-12-01T09:22:59.378Z - info: [4:22:59 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q4.md
+2021-12-01T09:23:00.387Z - info: Rebuilding 1 pages
+2021-12-01T09:23:00.450Z - info: Site data built
+2021-12-01T09:23:00.450Z - info: Pages rebuilt
+2021-12-01T09:23:00.450Z - info: Website regeneration complete! Total build time: 0.067s
+2021-12-01T09:23:08.128Z - info: [4:23:08 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q4.md
+2021-12-01T09:23:09.134Z - info: Rebuilding 1 pages
+2021-12-01T09:23:09.182Z - info: Site data built
+2021-12-01T09:23:09.182Z - info: Pages rebuilt
+2021-12-01T09:23:09.182Z - info: Website regeneration complete! Total build time: 0.049s
+2021-12-01T09:23:44.064Z - info: [4:23:44 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q2.md
+2021-12-01T09:23:44.067Z - info: [4:23:44 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q5.md
+2021-12-01T09:23:44.067Z - info: [4:23:44 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q3.md
+2021-12-01T09:23:44.067Z - info: [4:23:44 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q1.md
+2021-12-01T09:23:44.067Z - info: [4:23:44 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q6.md
+2021-12-01T09:23:45.077Z - info: Rebuilding 5 pages
+2021-12-01T09:23:45.248Z - info: Site data built
+2021-12-01T09:23:45.248Z - info: Pages rebuilt
+2021-12-01T09:23:45.248Z - info: Website regeneration complete! Total build time: 0.173s
+2021-12-01T09:26:33.836Z - info: Deployed at https://tejas2805.github.io/bombphatnewalahai!
+2021-12-01T09:26:49.417Z - warn: Command 'server' doesn't exist, run "markbind --help" to list commands.
+2021-12-01T09:26:52.274Z - info: Website generation started at 4:26:52 AM
+2021-12-01T09:26:52.349Z - info: Building assets...
+2021-12-01T09:26:52.374Z - info: Assets built
+2021-12-01T09:26:52.375Z - info: Generating pages...
+2021-12-01T09:26:52.693Z - info: Pages built
+2021-12-01T09:26:52.757Z - info: Site data built
+2021-12-01T09:26:52.757Z - info: Website generation complete! Total build time: 0.514s
+2021-12-01T09:26:52.775Z - info: Serving "/Users/tejasbhuwania/Desktop/BombBoom/_site" at http://127.0.0.1:8080
+2021-12-01T09:26:52.775Z - info: Press CTRL+C to stop ...
+2021-12-01T09:30:56.675Z - info: Website generation started at 4:30:56 AM
+2021-12-01T09:30:56.734Z - info: Building assets...
+2021-12-01T09:30:56.761Z - info: Assets built
+2021-12-01T09:30:56.762Z - info: Generating pages...
+2021-12-01T09:30:56.993Z - info: Pages built
+2021-12-01T09:30:57.048Z - info: Site data built
+2021-12-01T09:30:57.048Z - info: Website generation complete! Total build time: 0.414s
+2021-12-01T09:30:57.067Z - info: Serving "/Users/tejasbhuwania/Desktop/BombBoom/_site" at http://127.0.0.1:8080
+2021-12-01T09:30:57.067Z - info: Press CTRL+C to stop ...
+2021-12-01T09:31:12.800Z - info: Deployed at https://tejas2805.github.io/bombphatnewalahai!

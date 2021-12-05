@@ -1,0 +1,1691 @@
+2021-12-03T06:29:51.598Z - info: Website generation started at 1:29:51 AM
+2021-12-03T06:29:51.665Z - info: Building assets...
+2021-12-03T06:29:51.702Z - info: Assets built
+2021-12-03T06:29:51.702Z - info: Generating pages...
+2021-12-03T06:29:51.985Z - info: Pages built
+2021-12-03T06:29:52.046Z - info: Site data built
+2021-12-03T06:29:52.046Z - info: Website generation complete! Total build time: 0.507s
+2021-12-03T06:29:52.072Z - info: Serving "/Users/tejasbhuwania/Desktop/BombBoom/_site" at http://127.0.0.1:8080
+2021-12-03T06:29:52.072Z - info: Press CTRL+C to stop ...
+2021-12-03T06:30:09.896Z - info: [1:30:09 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q1.md
+2021-12-03T06:30:10.901Z - info: Rebuilding 1 pages
+2021-12-03T06:30:10.974Z - info: Site data built
+2021-12-03T06:30:10.974Z - info: Pages rebuilt
+2021-12-03T06:30:10.974Z - info: Website regeneration complete! Total build time: 0.075s
+2021-12-03T06:31:20.167Z - info: [1:31:20 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q2.md
+2021-12-03T06:31:21.181Z - info: Rebuilding 1 pages
+2021-12-03T06:31:21.240Z - info: Site data built
+2021-12-03T06:31:21.240Z - info: Pages rebuilt
+2021-12-03T06:31:21.241Z - info: Website regeneration complete! Total build time: 0.063s
+2021-12-03T06:32:11.446Z - info: [1:32:11 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q2.md
+2021-12-03T06:32:12.460Z - info: Rebuilding 1 pages
+2021-12-03T06:32:12.587Z - info: Site data built
+2021-12-03T06:32:12.588Z - info: Pages rebuilt
+2021-12-03T06:32:12.588Z - info: Website regeneration complete! Total build time: 0.132s
+2021-12-03T06:34:11.502Z - info: [1:34:11 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q1.md
+2021-12-03T06:34:12.510Z - info: Rebuilding 1 pages
+2021-12-03T06:34:12.592Z - info: Site data built
+2021-12-03T06:34:12.593Z - info: Pages rebuilt
+2021-12-03T06:34:12.593Z - info: Website regeneration complete! Total build time: 0.085s
+2021-12-03T06:35:44.298Z - info: Deployed at https://tejas2805.github.io/bombphatnewalahai!
+2021-12-03T06:35:52.678Z - info: Website generation started at 1:35:52 AM
+2021-12-03T06:35:52.740Z - info: Building assets...
+2021-12-03T06:35:52.771Z - info: Assets built
+2021-12-03T06:35:52.772Z - info: Generating pages...
+2021-12-03T06:35:53.110Z - info: Pages built
+2021-12-03T06:35:53.186Z - info: Site data built
+2021-12-03T06:35:53.187Z - info: Website generation complete! Total build time: 0.537s
+2021-12-03T06:35:53.208Z - info: Serving "/Users/tejasbhuwania/Desktop/BombBoom/_site" at http://127.0.0.1:8080
+2021-12-03T06:35:53.208Z - info: Press CTRL+C to stop ...
+2021-12-03T06:37:45.361Z - info: [1:37:45 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q2.md
+2021-12-03T06:37:46.377Z - info: Rebuilding 1 pages
+2021-12-03T06:37:46.516Z - info: Site data built
+2021-12-03T06:37:46.516Z - info: Pages rebuilt
+2021-12-03T06:37:46.516Z - info: Website regeneration complete! Total build time: 0.141s
+2021-12-03T06:38:15.936Z - info: [1:38:15 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q2.md
+2021-12-03T06:38:16.946Z - info: Rebuilding 1 pages
+2021-12-03T06:38:17.087Z - info: Site data built
+2021-12-03T06:38:17.087Z - info: Pages rebuilt
+2021-12-03T06:38:17.087Z - info: Website regeneration complete! Total build time: 0.145s
+2021-12-03T06:38:44.801Z - info: [1:38:44 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q2.md
+2021-12-03T06:38:45.808Z - info: Rebuilding 1 pages
+2021-12-03T06:38:45.928Z - info: Site data built
+2021-12-03T06:38:45.928Z - info: Pages rebuilt
+2021-12-03T06:38:45.929Z - info: Website regeneration complete! Total build time: 0.121s
+2021-12-03T06:38:49.689Z - info: [1:38:49 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q2.md
+2021-12-03T06:38:50.697Z - info: Rebuilding 1 pages
+2021-12-03T06:38:50.801Z - info: Site data built
+2021-12-03T06:38:50.801Z - info: Pages rebuilt
+2021-12-03T06:38:50.802Z - info: Website regeneration complete! Total build time: 0.106s
+2021-12-03T06:39:10.319Z - info: [1:39:10 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q2.md
+2021-12-03T06:39:11.325Z - info: Rebuilding 1 pages
+2021-12-03T06:39:11.407Z - info: Site data built
+2021-12-03T06:39:11.407Z - info: Pages rebuilt
+2021-12-03T06:39:11.407Z - info: Website regeneration complete! Total build time: 0.083s
+2021-12-03T06:49:25.526Z - info: [1:49:25 AM] Reload for file add: /Users/tejasbhuwania/Desktop/BombBoom/images/owl.jpeg
+2021-12-03T06:49:26.675Z - info: Assets built
+2021-12-03T06:49:52.385Z - info: [1:49:52 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q1.md
+2021-12-03T06:49:53.420Z - info: Rebuilding 1 pages
+2021-12-03T06:49:53.556Z - info: Site data built
+2021-12-03T06:49:53.556Z - info: Pages rebuilt
+2021-12-03T06:49:53.556Z - info: Website regeneration complete! Total build time: 0.142s
+2021-12-03T06:50:04.384Z - info: [1:50:04 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q1.md
+2021-12-03T06:50:05.391Z - info: Rebuilding 1 pages
+2021-12-03T06:50:05.474Z - info: Site data built
+2021-12-03T06:50:05.474Z - info: Pages rebuilt
+2021-12-03T06:50:05.477Z - info: Website regeneration complete! Total build time: 0.084s
+2021-12-03T06:50:42.304Z - info: [1:50:42 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q1.md
+2021-12-03T06:50:43.325Z - info: Rebuilding 1 pages
+2021-12-03T06:50:43.405Z - info: Site data built
+2021-12-03T06:50:43.405Z - info: Pages rebuilt
+2021-12-03T06:50:43.406Z - info: Website regeneration complete! Total build time: 0.082s
+2021-12-03T06:51:04.211Z - info: [1:51:04 AM] Reload for file add: /Users/tejasbhuwania/Desktop/BombBoom/images/quokkas.jpeg
+2021-12-03T06:51:05.245Z - info: Assets built
+2021-12-03T06:51:41.953Z - info: [1:51:41 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q1.md
+2021-12-03T06:51:42.987Z - info: Rebuilding 1 pages
+2021-12-03T06:51:43.149Z - info: Site data built
+2021-12-03T06:51:43.149Z - info: Pages rebuilt
+2021-12-03T06:51:43.150Z - info: Website regeneration complete! Total build time: 0.181s
+2021-12-03T06:52:11.500Z - info: [1:52:11 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q1.md
+2021-12-03T06:52:12.509Z - info: Rebuilding 1 pages
+2021-12-03T06:52:12.585Z - info: Site data built
+2021-12-03T06:52:12.585Z - info: Pages rebuilt
+2021-12-03T06:52:12.585Z - info: Website regeneration complete! Total build time: 0.081s
+2021-12-03T06:52:48.140Z - info: [1:52:48 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q1.md
+2021-12-03T06:52:49.148Z - info: Rebuilding 1 pages
+2021-12-03T06:52:49.191Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/bombphatnewalahai/images/giraffe.jpeg' found in file '/Users/tejasbhuwania/Desktop/BombBoom/contents/q1.md'
+2021-12-03T06:52:49.239Z - info: Site data built
+2021-12-03T06:52:49.240Z - info: Pages rebuilt
+2021-12-03T06:52:49.240Z - info: Website regeneration complete! Total build time: 0.094s
+2021-12-03T06:53:02.822Z - info: [1:53:02 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q1.md
+2021-12-03T06:53:03.822Z - info: Rebuilding 1 pages
+2021-12-03T06:53:03.865Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/bombphatnewalahai/images/giraffe.jpeg' found in file '/Users/tejasbhuwania/Desktop/BombBoom/contents/q1.md'
+2021-12-03T06:53:03.918Z - info: Site data built
+2021-12-03T06:53:03.918Z - info: Pages rebuilt
+2021-12-03T06:53:03.918Z - info: Website regeneration complete! Total build time: 0.096s
+2021-12-03T06:53:19.870Z - info: [1:53:19 AM] Reload for file add: /Users/tejasbhuwania/Desktop/BombBoom/images/giraffe.jpeg
+2021-12-03T06:53:20.896Z - info: Assets built
+2021-12-03T06:53:46.052Z - info: [1:53:46 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q1.md
+2021-12-03T06:53:47.067Z - info: Rebuilding 1 pages
+2021-12-03T06:53:47.200Z - info: Site data built
+2021-12-03T06:53:47.200Z - info: Pages rebuilt
+2021-12-03T06:53:47.200Z - info: Website regeneration complete! Total build time: 0.136s
+2021-12-03T06:54:38.180Z - info: [1:54:38 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q1.md
+2021-12-03T06:54:39.183Z - info: Rebuilding 1 pages
+2021-12-03T06:54:39.246Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/bombphatnewalahai/images/tiger.jpeg' found in file '/Users/tejasbhuwania/Desktop/BombBoom/contents/q1.md'
+2021-12-03T06:54:39.323Z - info: Site data built
+2021-12-03T06:54:39.323Z - info: Pages rebuilt
+2021-12-03T06:54:39.323Z - info: Website regeneration complete! Total build time: 0.141s
+2021-12-03T06:55:04.089Z - info: [1:55:04 AM] Reload for file add: /Users/tejasbhuwania/Desktop/BombBoom/images/tiger.jpeg
+2021-12-03T06:55:05.119Z - info: Assets built
+2021-12-03T06:55:38.123Z - info: [1:55:38 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q1.md
+2021-12-03T06:55:39.132Z - info: Rebuilding 1 pages
+2021-12-03T06:55:39.247Z - info: Site data built
+2021-12-03T06:55:39.247Z - info: Pages rebuilt
+2021-12-03T06:55:39.247Z - info: Website regeneration complete! Total build time: 0.117s
+2021-12-03T06:56:22.788Z - info: [1:56:22 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q1.md
+2021-12-03T06:56:23.796Z - info: Rebuilding 1 pages
+2021-12-03T06:56:23.933Z - info: Site data built
+2021-12-03T06:56:23.933Z - info: Pages rebuilt
+2021-12-03T06:56:23.933Z - info: Website regeneration complete! Total build time: 0.138s
+2021-12-03T06:56:39.462Z - info: [1:56:39 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q1.md
+2021-12-03T06:56:40.466Z - info: Rebuilding 1 pages
+2021-12-03T06:56:40.501Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/bombphatnewalahai/images/wolf.jpeg' found in file '/Users/tejasbhuwania/Desktop/BombBoom/contents/q1.md'
+2021-12-03T06:56:40.542Z - info: Site data built
+2021-12-03T06:56:40.542Z - info: Pages rebuilt
+2021-12-03T06:56:40.543Z - info: Website regeneration complete! Total build time: 0.077s
+2021-12-03T07:00:01.907Z - info: [2:00:01 AM] Reload for file add: /Users/tejasbhuwania/Desktop/BombBoom/images/wolf.jpeg
+2021-12-03T07:00:02.996Z - info: Assets built
+2021-12-03T07:00:22.804Z - info: [2:00:22 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q1.md
+2021-12-03T07:00:23.818Z - info: Rebuilding 1 pages
+2021-12-03T07:00:24.033Z - info: Site data built
+2021-12-03T07:00:24.033Z - info: Pages rebuilt
+2021-12-03T07:00:24.033Z - info: Website regeneration complete! Total build time: 0.22s
+2021-12-03T07:02:02.881Z - info: Deployed at https://tejas2805.github.io/bombphatnewalahai!
+2021-12-03T07:02:33.424Z - info: Website generation started at 2:02:33 AM
+2021-12-03T07:02:33.485Z - info: Building assets...
+2021-12-03T07:02:33.516Z - info: Assets built
+2021-12-03T07:02:33.517Z - info: Generating pages...
+2021-12-03T07:02:33.823Z - info: Pages built
+2021-12-03T07:02:33.888Z - info: Site data built
+2021-12-03T07:02:33.888Z - info: Website generation complete! Total build time: 0.492s
+2021-12-03T07:02:33.909Z - info: Serving "/Users/tejasbhuwania/Desktop/BombBoom/_site" at http://127.0.0.1:8080
+2021-12-03T07:02:33.909Z - info: Press CTRL+C to stop ...
+2021-12-03T07:04:08.749Z - info: [2:04:08 AM] Reload for file deletion: /Users/tejasbhuwania/Desktop/BombBoom/images/quokkas.jpeg
+2021-12-03T07:04:09.805Z - debug: Assets removed
+2021-12-03T07:04:09.908Z - info: [2:04:09 AM] Reload for file add: /Users/tejasbhuwania/Desktop/BombBoom/images/quokka.jpeg
+2021-12-03T07:04:10.953Z - info: Assets built
+2021-12-03T07:04:31.546Z - info: [2:04:31 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q1.md
+2021-12-03T07:04:32.586Z - info: Rebuilding 1 pages
+2021-12-03T07:04:32.784Z - info: Site data built
+2021-12-03T07:04:32.785Z - info: Pages rebuilt
+2021-12-03T07:04:32.785Z - info: Website regeneration complete! Total build time: 0.219s
+2021-12-03T07:09:28.054Z - info: [2:09:28 AM] Reload for file add: /Users/tejasbhuwania/Desktop/BombBoom/images/hssh.jpeg
+2021-12-03T07:09:29.082Z - info: Assets built
+2021-12-03T07:09:36.660Z - info: [2:09:36 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q2.md
+2021-12-03T07:09:37.669Z - info: Rebuilding 1 pages
+2021-12-03T07:09:37.826Z - info: Site data built
+2021-12-03T07:09:37.826Z - info: Pages rebuilt
+2021-12-03T07:09:37.826Z - info: Website regeneration complete! Total build time: 0.161s
+2021-12-03T07:09:46.825Z - info: [2:09:46 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q2.md
+2021-12-03T07:09:47.830Z - info: Rebuilding 1 pages
+2021-12-03T07:09:47.946Z - info: Site data built
+2021-12-03T07:09:47.946Z - info: Pages rebuilt
+2021-12-03T07:09:47.946Z - info: Website regeneration complete! Total build time: 0.118s
+2021-12-03T07:09:55.995Z - info: [2:09:55 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q2.md
+2021-12-03T07:09:57.000Z - info: Rebuilding 1 pages
+2021-12-03T07:09:57.074Z - info: Site data built
+2021-12-03T07:09:57.074Z - info: Pages rebuilt
+2021-12-03T07:09:57.074Z - info: Website regeneration complete! Total build time: 0.074s
+2021-12-03T07:10:29.940Z - info: [2:10:29 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q2.md
+2021-12-03T07:10:30.949Z - info: Rebuilding 1 pages
+2021-12-03T07:10:31.080Z - info: Site data built
+2021-12-03T07:10:31.080Z - info: Pages rebuilt
+2021-12-03T07:10:31.080Z - info: Website regeneration complete! Total build time: 0.134s
+2021-12-03T07:10:40.189Z - info: [2:10:40 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q2.md
+2021-12-03T07:10:41.205Z - info: Rebuilding 1 pages
+2021-12-03T07:10:41.332Z - info: Site data built
+2021-12-03T07:10:41.333Z - info: Pages rebuilt
+2021-12-03T07:10:41.333Z - info: Website regeneration complete! Total build time: 0.133s
+2021-12-03T07:11:07.714Z - info: [2:11:07 AM] Reload for file add: /Users/tejasbhuwania/Desktop/BombBoom/images/WhatsApp Image 2021-12-03 at 2.02.40 AM.jpeg
+2021-12-03T07:11:08.737Z - info: Assets built
+2021-12-03T07:11:11.008Z - info: [2:11:11 AM] Reload for file deletion: /Users/tejasbhuwania/Desktop/BombBoom/images/WhatsApp Image 2021-12-03 at 2.02.40 AM.jpeg
+2021-12-03T07:11:11.009Z - info: [2:11:11 AM] Reload for file add: /Users/tejasbhuwania/Desktop/BombBoom/images/naach.jpeg
+2021-12-03T07:11:12.024Z - debug: Assets removed
+2021-12-03T07:11:12.027Z - info: Assets built
+2021-12-03T07:11:20.295Z - info: [2:11:20 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q2.md
+2021-12-03T07:11:21.314Z - info: Rebuilding 1 pages
+2021-12-03T07:11:21.459Z - info: Site data built
+2021-12-03T07:11:21.459Z - info: Pages rebuilt
+2021-12-03T07:11:21.459Z - info: Website regeneration complete! Total build time: 0.155s
+2021-12-03T07:11:55.351Z - info: [2:11:55 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q2.md
+2021-12-03T07:11:56.363Z - info: Rebuilding 1 pages
+2021-12-03T07:11:56.519Z - info: Site data built
+2021-12-03T07:11:56.520Z - info: Pages rebuilt
+2021-12-03T07:11:56.520Z - info: Website regeneration complete! Total build time: 0.161s
+2021-12-03T07:12:20.593Z - info: [2:12:20 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q2.md
+2021-12-03T07:12:21.615Z - info: Rebuilding 1 pages
+2021-12-03T07:12:21.702Z - info: Site data built
+2021-12-03T07:12:21.702Z - info: Pages rebuilt
+2021-12-03T07:12:21.702Z - info: Website regeneration complete! Total build time: 0.092s
+2021-12-03T07:12:51.180Z - info: [2:12:51 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q2.md
+2021-12-03T07:12:52.186Z - info: Rebuilding 1 pages
+2021-12-03T07:12:52.285Z - info: Site data built
+2021-12-03T07:12:52.285Z - info: Pages rebuilt
+2021-12-03T07:12:52.285Z - info: Website regeneration complete! Total build time: 0.099s
+2021-12-03T07:15:03.194Z - info: [2:15:03 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q2.md
+2021-12-03T07:15:04.228Z - info: Rebuilding 1 pages
+2021-12-03T07:15:04.416Z - info: Site data built
+2021-12-03T07:15:04.417Z - info: Pages rebuilt
+2021-12-03T07:15:04.417Z - info: Website regeneration complete! Total build time: 0.193s
+2021-12-03T07:15:52.925Z - info: [2:15:52 AM] Reload for file add: /Users/tejasbhuwania/Desktop/BombBoom/images/WhatsApp Image 2021-12-03 at 2.12.09 AM.jpeg
+2021-12-03T07:15:53.963Z - info: Assets built
+2021-12-03T07:15:56.738Z - info: [2:15:56 AM] Reload for file deletion: /Users/tejasbhuwania/Desktop/BombBoom/images/WhatsApp Image 2021-12-03 at 2.12.09 AM.jpeg
+2021-12-03T07:15:56.738Z - info: [2:15:56 AM] Reload for file add: /Users/tejasbhuwania/Desktop/BombBoom/images/ranbir.jpeg
+2021-12-03T07:15:57.745Z - debug: Assets removed
+2021-12-03T07:15:57.753Z - info: Assets built
+2021-12-03T07:16:05.335Z - info: [2:16:05 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q2.md
+2021-12-03T07:16:06.347Z - info: Rebuilding 1 pages
+2021-12-03T07:16:06.472Z - info: Site data built
+2021-12-03T07:16:06.472Z - info: Pages rebuilt
+2021-12-03T07:16:06.472Z - info: Website regeneration complete! Total build time: 0.131s
+2021-12-03T07:16:24.586Z - info: [2:16:24 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q2.md
+2021-12-03T07:16:25.595Z - info: Rebuilding 1 pages
+2021-12-03T07:16:25.698Z - info: Site data built
+2021-12-03T07:16:25.698Z - info: Pages rebuilt
+2021-12-03T07:16:25.699Z - info: Website regeneration complete! Total build time: 0.106s
+2021-12-03T07:16:34.064Z - info: [2:16:34 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q2.md
+2021-12-03T07:16:35.074Z - info: Rebuilding 1 pages
+2021-12-03T07:16:35.175Z - info: Site data built
+2021-12-03T07:16:35.175Z - info: Pages rebuilt
+2021-12-03T07:16:35.175Z - info: Website regeneration complete! Total build time: 0.105s
+2021-12-03T07:16:59.981Z - info: [2:16:59 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q2.md
+2021-12-03T07:17:00.992Z - info: Rebuilding 1 pages
+2021-12-03T07:17:01.129Z - info: Site data built
+2021-12-03T07:17:01.129Z - info: Pages rebuilt
+2021-12-03T07:17:01.129Z - info: Website regeneration complete! Total build time: 0.141s
+2021-12-03T07:18:14.389Z - info: [2:18:14 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q2.md
+2021-12-03T07:18:15.410Z - info: Rebuilding 1 pages
+2021-12-03T07:18:15.602Z - info: Site data built
+2021-12-03T07:18:15.602Z - info: Pages rebuilt
+2021-12-03T07:18:15.602Z - info: Website regeneration complete! Total build time: 0.196s
+2021-12-03T07:18:29.132Z - info: [2:18:29 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q2.md
+2021-12-03T07:18:30.138Z - info: Rebuilding 1 pages
+2021-12-03T07:18:30.306Z - info: Site data built
+2021-12-03T07:18:30.306Z - info: Pages rebuilt
+2021-12-03T07:18:30.307Z - info: Website regeneration complete! Total build time: 0.17s
+2021-12-03T07:18:35.157Z - info: [2:18:35 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q2.md
+2021-12-03T07:18:36.164Z - info: Rebuilding 1 pages
+2021-12-03T07:18:36.270Z - info: Site data built
+2021-12-03T07:18:36.270Z - info: Pages rebuilt
+2021-12-03T07:18:36.270Z - info: Website regeneration complete! Total build time: 0.107s
+2021-12-03T07:19:33.292Z - info: [2:19:33 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q2.md
+2021-12-03T07:19:34.302Z - info: Rebuilding 1 pages
+2021-12-03T07:19:34.463Z - info: Site data built
+2021-12-03T07:19:34.463Z - info: Pages rebuilt
+2021-12-03T07:19:34.464Z - info: Website regeneration complete! Total build time: 0.165s
+2021-12-03T07:20:36.141Z - info: [2:20:36 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q2.md
+2021-12-03T07:20:37.153Z - info: Rebuilding 1 pages
+2021-12-03T07:20:37.295Z - info: Site data built
+2021-12-03T07:20:37.295Z - info: Pages rebuilt
+2021-12-03T07:20:37.295Z - info: Website regeneration complete! Total build time: 0.145s
+2021-12-03T07:20:55.809Z - info: [2:20:55 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q2.md
+2021-12-03T07:20:56.817Z - info: Rebuilding 1 pages
+2021-12-03T07:20:56.947Z - info: Site data built
+2021-12-03T07:20:56.948Z - info: Pages rebuilt
+2021-12-03T07:20:56.948Z - info: Website regeneration complete! Total build time: 0.133s
+2021-12-03T07:21:28.847Z - info: [2:21:28 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q2.md
+2021-12-03T07:21:29.864Z - info: Rebuilding 1 pages
+2021-12-03T07:21:30.016Z - info: Site data built
+2021-12-03T07:21:30.017Z - info: Pages rebuilt
+2021-12-03T07:21:30.017Z - info: Website regeneration complete! Total build time: 0.16s
+2021-12-03T07:21:43.557Z - info: [2:21:43 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q2.md
+2021-12-03T07:21:44.562Z - info: Rebuilding 1 pages
+2021-12-03T07:21:44.643Z - info: Site data built
+2021-12-03T07:21:44.643Z - info: Pages rebuilt
+2021-12-03T07:21:44.643Z - info: Website regeneration complete! Total build time: 0.082s
+2021-12-03T07:23:46.122Z - info: [2:23:46 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q2.md
+2021-12-03T07:23:47.146Z - info: Rebuilding 1 pages
+2021-12-03T07:23:47.278Z - info: Site data built
+2021-12-03T07:23:47.278Z - info: Pages rebuilt
+2021-12-03T07:23:47.278Z - info: Website regeneration complete! Total build time: 0.138s
+2021-12-03T07:24:08.439Z - info: [2:24:08 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q2.md
+2021-12-03T07:24:09.452Z - info: Rebuilding 1 pages
+2021-12-03T07:24:09.535Z - info: Site data built
+2021-12-03T07:24:09.535Z - info: Pages rebuilt
+2021-12-03T07:24:09.535Z - info: Website regeneration complete! Total build time: 0.086s
+2021-12-03T07:24:49.308Z - info: [2:24:49 AM] Reload for file add: /Users/tejasbhuwania/Desktop/BombBoom/images/rhea.jpeg
+2021-12-03T07:24:50.359Z - info: Assets built
+2021-12-03T07:25:01.238Z - info: [2:25:01 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q2.md
+2021-12-03T07:25:02.254Z - info: Rebuilding 1 pages
+2021-12-03T07:25:02.361Z - info: Site data built
+2021-12-03T07:25:02.361Z - info: Pages rebuilt
+2021-12-03T07:25:02.361Z - info: Website regeneration complete! Total build time: 0.113s
+2021-12-03T07:25:14.621Z - info: [2:25:14 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q2.md
+2021-12-03T07:25:15.632Z - info: Rebuilding 1 pages
+2021-12-03T07:25:15.765Z - info: Site data built
+2021-12-03T07:25:15.765Z - info: Pages rebuilt
+2021-12-03T07:25:15.765Z - info: Website regeneration complete! Total build time: 0.136s
+2021-12-03T07:25:24.803Z - info: [2:25:24 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q2.md
+2021-12-03T07:25:25.811Z - info: Rebuilding 1 pages
+2021-12-03T07:25:25.924Z - info: Site data built
+2021-12-03T07:25:25.924Z - info: Pages rebuilt
+2021-12-03T07:25:25.924Z - info: Website regeneration complete! Total build time: 0.115s
+2021-12-03T07:25:50.793Z - info: [2:25:50 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q2.md
+2021-12-03T07:25:51.800Z - info: Rebuilding 1 pages
+2021-12-03T07:25:51.911Z - info: Site data built
+2021-12-03T07:25:51.911Z - info: Pages rebuilt
+2021-12-03T07:25:51.911Z - info: Website regeneration complete! Total build time: 0.114s
+2021-12-03T07:27:23.786Z - info: [2:27:23 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q2.md
+2021-12-03T07:27:24.802Z - info: Rebuilding 1 pages
+2021-12-03T07:27:24.935Z - info: Site data built
+2021-12-03T07:27:24.935Z - info: Pages rebuilt
+2021-12-03T07:27:24.936Z - info: Website regeneration complete! Total build time: 0.141s
+2021-12-03T07:29:41.224Z - info: [2:29:41 AM] Reload for file add: /Users/tejasbhuwania/Desktop/BombBoom/images/bkd.jpeg
+2021-12-03T07:29:42.245Z - info: Assets built
+2021-12-03T07:29:48.851Z - info: [2:29:48 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q2.md
+2021-12-03T07:29:49.863Z - info: Rebuilding 1 pages
+2021-12-03T07:29:49.965Z - info: Site data built
+2021-12-03T07:29:49.965Z - info: Pages rebuilt
+2021-12-03T07:29:49.965Z - info: Website regeneration complete! Total build time: 0.107s
+2021-12-03T07:30:03.637Z - info: [2:30:03 AM] Reload for file add: /Users/tejasbhuwania/Desktop/BombBoom/images/dhoni.jpeg
+2021-12-03T07:30:04.646Z - info: Assets built
+2021-12-03T07:30:15.670Z - info: [2:30:15 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q2.md
+2021-12-03T07:30:16.677Z - info: Rebuilding 1 pages
+2021-12-03T07:30:16.741Z - info: Site data built
+2021-12-03T07:30:16.742Z - info: Pages rebuilt
+2021-12-03T07:30:16.743Z - info: Website regeneration complete! Total build time: 0.066s
+2021-12-03T07:31:20.088Z - info: [2:31:20 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q2.md
+2021-12-03T07:31:21.116Z - info: Rebuilding 1 pages
+2021-12-03T07:31:21.263Z - info: Site data built
+2021-12-03T07:31:21.263Z - info: Pages rebuilt
+2021-12-03T07:31:21.263Z - info: Website regeneration complete! Total build time: 0.153s
+2021-12-03T07:33:10.421Z - info: [2:33:10 AM] Reload for file add: /Users/tejasbhuwania/Desktop/BombBoom/images/php.jpeg
+2021-12-03T07:33:11.454Z - info: Assets built
+2021-12-03T07:33:41.822Z - info: [2:33:41 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q2.md
+2021-12-03T07:33:42.844Z - info: Rebuilding 1 pages
+2021-12-03T07:33:43.003Z - info: Site data built
+2021-12-03T07:33:43.003Z - info: Pages rebuilt
+2021-12-03T07:33:43.004Z - info: Website regeneration complete! Total build time: 0.17s
+2021-12-03T07:33:57.679Z - info: [2:33:57 AM] Reload for file add: /Users/tejasbhuwania/Desktop/BombBoom/images/WhatsApp Image 2021-12-03 at 2.33.06 AM.jpeg
+2021-12-03T07:33:58.711Z - info: Assets built
+2021-12-03T07:34:04.280Z - info: [2:34:04 AM] Reload for file deletion: /Users/tejasbhuwania/Desktop/BombBoom/images/WhatsApp Image 2021-12-03 at 2.33.06 AM.jpeg
+2021-12-03T07:34:04.281Z - info: [2:34:04 AM] Reload for file add: /Users/tejasbhuwania/Desktop/BombBoom/images/dgk.jpeg
+2021-12-03T07:34:05.297Z - debug: Assets removed
+2021-12-03T07:34:05.326Z - info: Assets built
+2021-12-03T07:34:56.153Z - info: [2:34:56 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q2.md
+2021-12-03T07:34:57.168Z - info: Rebuilding 1 pages
+2021-12-03T07:34:57.320Z - info: Site data built
+2021-12-03T07:34:57.320Z - info: Pages rebuilt
+2021-12-03T07:34:57.324Z - info: Website regeneration complete! Total build time: 0.155s
+2021-12-03T07:35:31.111Z - info: [2:35:31 AM] Reload for file add: /Users/tejasbhuwania/Desktop/BombBoom/images/kt.jpeg
+2021-12-03T07:35:32.145Z - info: Assets built
+2021-12-03T07:35:41.966Z - info: [2:35:41 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q2.md
+2021-12-03T07:35:42.979Z - info: Rebuilding 1 pages
+2021-12-03T07:35:43.177Z - info: Site data built
+2021-12-03T07:35:43.177Z - info: Pages rebuilt
+2021-12-03T07:35:43.177Z - info: Website regeneration complete! Total build time: 0.207s
+2021-12-03T07:35:52.610Z - info: [2:35:52 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q2.md
+2021-12-03T07:35:53.630Z - info: Rebuilding 1 pages
+2021-12-03T07:35:53.759Z - info: Site data built
+2021-12-03T07:35:53.759Z - info: Pages rebuilt
+2021-12-03T07:35:53.759Z - info: Website regeneration complete! Total build time: 0.133s
+2021-12-03T07:36:06.334Z - info: [2:36:06 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q2.md
+2021-12-03T07:36:07.342Z - info: Rebuilding 1 pages
+2021-12-03T07:36:07.421Z - info: Site data built
+2021-12-03T07:36:07.421Z - info: Pages rebuilt
+2021-12-03T07:36:07.421Z - info: Website regeneration complete! Total build time: 0.083s
+2021-12-03T07:36:16.796Z - info: Deployed at https://tejas2805.github.io/bombphatnewalahai!
+2021-12-03T07:36:31.192Z - info: Deployed at https://tejas2805.github.io/bombphatnewalahai!
+2021-12-03T07:36:34.393Z - info: Website generation started at 2:36:34 AM
+2021-12-03T07:36:34.455Z - info: Building assets...
+2021-12-03T07:36:34.486Z - info: Assets built
+2021-12-03T07:36:34.486Z - info: Generating pages...
+2021-12-03T07:36:34.927Z - info: Pages built
+2021-12-03T07:36:35.057Z - info: Site data built
+2021-12-03T07:36:35.057Z - info: Website generation complete! Total build time: 0.706s
+2021-12-03T07:36:35.078Z - info: Serving "/Users/tejasbhuwania/Desktop/BombBoom/_site" at http://127.0.0.1:8080
+2021-12-03T07:36:35.078Z - info: Press CTRL+C to stop ...
+2021-12-03T07:43:21.507Z - info: [2:43:21 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q5.md
+2021-12-03T07:43:22.574Z - info: Rebuilding 1 pages
+2021-12-03T07:43:22.719Z - info: Site data built
+2021-12-03T07:43:22.720Z - info: Pages rebuilt
+2021-12-03T07:43:22.720Z - info: Website regeneration complete! Total build time: 0.177s
+2021-12-03T08:17:15.617Z - info: [3:17:15 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q3.md
+2021-12-03T08:17:16.658Z - info: Rebuilding 1 pages
+2021-12-03T08:17:16.886Z - info: Site data built
+2021-12-03T08:17:16.886Z - info: Pages rebuilt
+2021-12-03T08:17:16.886Z - info: Website regeneration complete! Total build time: 0.245s
+2021-12-03T08:19:05.584Z - info: [3:19:05 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q3.md
+2021-12-03T08:19:06.606Z - info: Rebuilding 1 pages
+2021-12-03T08:19:06.744Z - info: Site data built
+2021-12-03T08:19:06.744Z - info: Pages rebuilt
+2021-12-03T08:19:06.744Z - info: Website regeneration complete! Total build time: 0.143s
+2021-12-03T08:23:25.553Z - info: [3:23:25 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q3.md
+2021-12-03T08:23:26.572Z - info: Rebuilding 1 pages
+2021-12-03T08:23:26.664Z - info: Site data built
+2021-12-03T08:23:26.664Z - info: Pages rebuilt
+2021-12-03T08:23:26.664Z - info: Website regeneration complete! Total build time: 0.099s
+2021-12-03T08:30:11.428Z - info: [3:30:11 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q3.md
+2021-12-03T08:30:12.450Z - info: Rebuilding 1 pages
+2021-12-03T08:30:12.538Z - info: Site data built
+2021-12-03T08:30:12.538Z - info: Pages rebuilt
+2021-12-03T08:30:12.538Z - info: Website regeneration complete! Total build time: 0.093s
+2021-12-03T08:30:35.032Z - info: [3:30:35 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q3.md
+2021-12-03T08:30:36.037Z - info: Rebuilding 1 pages
+2021-12-03T08:30:36.096Z - info: Site data built
+2021-12-03T08:30:36.097Z - info: Pages rebuilt
+2021-12-03T08:30:36.097Z - info: Website regeneration complete! Total build time: 0.062s
+2021-12-03T08:31:28.170Z - info: [3:31:28 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q3.md
+2021-12-03T08:31:29.199Z - info: Rebuilding 1 pages
+2021-12-03T08:31:29.287Z - info: Site data built
+2021-12-03T08:31:29.287Z - info: Pages rebuilt
+2021-12-03T08:31:29.288Z - info: Website regeneration complete! Total build time: 0.092s
+2021-12-03T08:31:43.872Z - info: [3:31:43 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q3.md
+2021-12-03T08:31:44.876Z - info: Rebuilding 1 pages
+2021-12-03T08:31:44.916Z - info: Site data built
+2021-12-03T08:31:44.917Z - info: Pages rebuilt
+2021-12-03T08:31:44.917Z - info: Website regeneration complete! Total build time: 0.043s
+2021-12-03T08:31:54.519Z - info: [3:31:54 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q3.md
+2021-12-03T08:31:55.527Z - info: Rebuilding 1 pages
+2021-12-03T08:31:55.615Z - info: Site data built
+2021-12-03T08:31:55.615Z - info: Pages rebuilt
+2021-12-03T08:31:55.616Z - info: Website regeneration complete! Total build time: 0.089s
+2021-12-03T08:32:21.560Z - info: [3:32:21 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q3.md
+2021-12-03T08:32:22.572Z - info: Rebuilding 1 pages
+2021-12-03T08:32:22.676Z - info: Site data built
+2021-12-03T08:32:22.677Z - info: Pages rebuilt
+2021-12-03T08:32:22.677Z - info: Website regeneration complete! Total build time: 0.109s
+2021-12-03T08:32:41.791Z - info: [3:32:41 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q3.md
+2021-12-03T08:32:42.803Z - info: Rebuilding 1 pages
+2021-12-03T08:32:42.862Z - info: Site data built
+2021-12-03T08:32:42.863Z - info: Pages rebuilt
+2021-12-03T08:32:42.863Z - info: Website regeneration complete! Total build time: 0.064s
+2021-12-03T08:33:03.278Z - info: [3:33:03 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q3.md
+2021-12-03T08:33:04.290Z - info: Rebuilding 1 pages
+2021-12-03T08:33:04.375Z - info: Site data built
+2021-12-03T08:33:04.375Z - info: Pages rebuilt
+2021-12-03T08:33:04.376Z - info: Website regeneration complete! Total build time: 0.09s
+2021-12-03T08:33:15.310Z - info: [3:33:15 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q3.md
+2021-12-03T08:33:16.314Z - info: Rebuilding 1 pages
+2021-12-03T08:33:16.358Z - info: Site data built
+2021-12-03T08:33:16.358Z - info: Pages rebuilt
+2021-12-03T08:33:16.358Z - info: Website regeneration complete! Total build time: 0.045s
+2021-12-03T08:34:21.658Z - info: [3:34:21 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q3.md
+2021-12-03T08:34:22.678Z - info: Rebuilding 1 pages
+2021-12-03T08:34:22.800Z - info: Site data built
+2021-12-03T08:34:22.801Z - info: Pages rebuilt
+2021-12-03T08:34:22.801Z - info: Website regeneration complete! Total build time: 0.131s
+2021-12-03T08:34:35.608Z - info: [3:34:35 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q3.md
+2021-12-03T08:34:36.615Z - info: Rebuilding 1 pages
+2021-12-03T08:34:36.701Z - info: Site data built
+2021-12-03T08:34:36.701Z - info: Pages rebuilt
+2021-12-03T08:34:36.702Z - info: Website regeneration complete! Total build time: 0.087s
+2021-12-03T08:35:11.383Z - info: [3:35:11 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q3.md
+2021-12-03T08:35:12.400Z - info: Rebuilding 1 pages
+2021-12-03T08:35:12.504Z - info: Site data built
+2021-12-03T08:35:12.504Z - info: Pages rebuilt
+2021-12-03T08:35:12.504Z - info: Website regeneration complete! Total build time: 0.11s
+2021-12-03T08:35:31.469Z - info: [3:35:31 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q3.md
+2021-12-03T08:35:32.470Z - info: Rebuilding 1 pages
+2021-12-03T08:35:32.513Z - info: Site data built
+2021-12-03T08:35:32.513Z - info: Pages rebuilt
+2021-12-03T08:35:32.513Z - info: Website regeneration complete! Total build time: 0.043s
+2021-12-03T08:35:55.919Z - info: [3:35:55 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q3.md
+2021-12-03T08:35:56.930Z - info: Rebuilding 1 pages
+2021-12-03T08:35:57.007Z - info: Site data built
+2021-12-03T08:35:57.007Z - info: Pages rebuilt
+2021-12-03T08:35:57.007Z - info: Website regeneration complete! Total build time: 0.082s
+2021-12-03T08:36:11.220Z - info: [3:36:11 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q3.md
+2021-12-03T08:36:12.228Z - info: Rebuilding 1 pages
+2021-12-03T08:36:12.298Z - info: Site data built
+2021-12-03T08:36:12.298Z - info: Pages rebuilt
+2021-12-03T08:36:12.298Z - info: Website regeneration complete! Total build time: 0.072s
+2021-12-03T08:36:22.334Z - info: [3:36:22 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q3.md
+2021-12-03T08:36:23.342Z - info: Rebuilding 1 pages
+2021-12-03T08:36:23.411Z - info: Site data built
+2021-12-03T08:36:23.411Z - info: Pages rebuilt
+2021-12-03T08:36:23.411Z - info: Website regeneration complete! Total build time: 0.072s
+2021-12-03T08:36:32.025Z - info: [3:36:32 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q3.md
+2021-12-03T08:36:33.043Z - info: Rebuilding 1 pages
+2021-12-03T08:36:33.095Z - info: Site data built
+2021-12-03T08:36:33.095Z - info: Pages rebuilt
+2021-12-03T08:36:33.095Z - info: Website regeneration complete! Total build time: 0.055s
+2021-12-03T08:36:37.411Z - info: [3:36:37 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q3.md
+2021-12-03T08:36:38.412Z - info: Rebuilding 1 pages
+2021-12-03T08:36:38.447Z - info: Site data built
+2021-12-03T08:36:38.447Z - info: Pages rebuilt
+2021-12-03T08:36:38.447Z - info: Website regeneration complete! Total build time: 0.036s
+2021-12-03T08:36:50.735Z - info: [3:36:50 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q3.md
+2021-12-03T08:36:51.741Z - info: Rebuilding 1 pages
+2021-12-03T08:36:51.774Z - info: Site data built
+2021-12-03T08:36:51.774Z - info: Pages rebuilt
+2021-12-03T08:36:51.774Z - info: Website regeneration complete! Total build time: 0.034s
+2021-12-03T08:37:02.232Z - info: [3:37:02 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q3.md
+2021-12-03T08:37:03.238Z - info: Rebuilding 1 pages
+2021-12-03T08:37:03.261Z - info: Site data built
+2021-12-03T08:37:03.262Z - info: Pages rebuilt
+2021-12-03T08:37:03.262Z - info: Website regeneration complete! Total build time: 0.025s
+2021-12-03T08:37:07.554Z - info: [3:37:07 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q3.md
+2021-12-03T08:37:08.562Z - info: Rebuilding 1 pages
+2021-12-03T08:37:08.643Z - info: Site data built
+2021-12-03T08:37:08.644Z - info: Pages rebuilt
+2021-12-03T08:37:08.644Z - info: Website regeneration complete! Total build time: 0.084s
+2021-12-03T08:37:27.186Z - info: [3:37:27 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q3.md
+2021-12-03T08:37:28.197Z - info: Rebuilding 1 pages
+2021-12-03T08:37:28.294Z - info: Site data built
+2021-12-03T08:37:28.294Z - info: Pages rebuilt
+2021-12-03T08:37:28.294Z - info: Website regeneration complete! Total build time: 0.1s
+2021-12-03T08:40:00.212Z - info: [3:40:00 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q3.md
+2021-12-03T08:40:01.230Z - info: Rebuilding 1 pages
+2021-12-03T08:40:01.320Z - info: Site data built
+2021-12-03T08:40:01.320Z - info: Pages rebuilt
+2021-12-03T08:40:01.320Z - info: Website regeneration complete! Total build time: 0.096s
+2021-12-03T08:40:11.083Z - info: [3:40:11 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q3.md
+2021-12-03T08:40:12.086Z - info: Rebuilding 1 pages
+2021-12-03T08:40:12.149Z - info: Site data built
+2021-12-03T08:40:12.150Z - info: Pages rebuilt
+2021-12-03T08:40:12.150Z - info: Website regeneration complete! Total build time: 0.066s
+2021-12-03T08:40:39.450Z - info: [3:40:39 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q3.md
+2021-12-03T08:40:40.461Z - info: Rebuilding 1 pages
+2021-12-03T08:40:40.543Z - info: Site data built
+2021-12-03T08:40:40.544Z - info: Pages rebuilt
+2021-12-03T08:40:40.544Z - info: Website regeneration complete! Total build time: 0.084s
+2021-12-03T08:40:56.159Z - info: [3:40:56 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q3.md
+2021-12-03T08:40:57.167Z - info: Rebuilding 1 pages
+2021-12-03T08:40:57.213Z - info: Site data built
+2021-12-03T08:40:57.214Z - info: Pages rebuilt
+2021-12-03T08:40:57.214Z - info: Website regeneration complete! Total build time: 0.049s
+2021-12-03T08:41:02.002Z - info: [3:41:01 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q3.md
+2021-12-03T08:41:03.011Z - info: Rebuilding 1 pages
+2021-12-03T08:41:03.044Z - info: Site data built
+2021-12-03T08:41:03.044Z - info: Pages rebuilt
+2021-12-03T08:41:03.044Z - info: Website regeneration complete! Total build time: 0.036s
+2021-12-03T08:41:24.340Z - info: [3:41:24 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q3.md
+2021-12-03T08:41:25.350Z - info: Rebuilding 1 pages
+2021-12-03T08:41:25.402Z - info: Site data built
+2021-12-03T08:41:25.402Z - info: Pages rebuilt
+2021-12-03T08:41:25.403Z - info: Website regeneration complete! Total build time: 0.055s
+2021-12-03T08:42:43.193Z - info: [3:42:43 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q3.md
+2021-12-03T08:42:44.212Z - info: Rebuilding 1 pages
+2021-12-03T08:42:44.291Z - info: Site data built
+2021-12-03T08:42:44.291Z - info: Pages rebuilt
+2021-12-03T08:42:44.292Z - info: Website regeneration complete! Total build time: 0.087s
+2021-12-03T08:42:52.821Z - info: [3:42:52 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q3.md
+2021-12-03T08:42:53.827Z - info: Rebuilding 1 pages
+2021-12-03T08:42:53.865Z - info: Site data built
+2021-12-03T08:42:53.865Z - info: Pages rebuilt
+2021-12-03T08:42:53.865Z - info: Website regeneration complete! Total build time: 0.038s
+2021-12-03T08:42:56.413Z - info: [3:42:56 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q3.md
+2021-12-03T08:42:57.416Z - info: Rebuilding 1 pages
+2021-12-03T08:42:57.470Z - info: Site data built
+2021-12-03T08:42:57.470Z - info: Pages rebuilt
+2021-12-03T08:42:57.471Z - info: Website regeneration complete! Total build time: 0.056s
+2021-12-03T08:43:26.558Z - info: [3:43:26 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q3.md
+2021-12-03T08:43:27.567Z - info: Rebuilding 1 pages
+2021-12-03T08:43:27.618Z - info: Site data built
+2021-12-03T08:43:27.618Z - info: Pages rebuilt
+2021-12-03T08:43:27.619Z - info: Website regeneration complete! Total build time: 0.054s
+2021-12-03T08:43:53.913Z - info: [3:43:53 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q3.md
+2021-12-03T08:43:54.920Z - info: Rebuilding 1 pages
+2021-12-03T08:43:54.992Z - info: Site data built
+2021-12-03T08:43:54.992Z - info: Pages rebuilt
+2021-12-03T08:43:54.992Z - info: Website regeneration complete! Total build time: 0.075s
+2021-12-03T08:44:24.118Z - info: [3:44:24 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q3.md
+2021-12-03T08:44:25.126Z - info: Rebuilding 1 pages
+2021-12-03T08:44:25.206Z - info: Site data built
+2021-12-03T08:44:25.206Z - info: Pages rebuilt
+2021-12-03T08:44:25.206Z - info: Website regeneration complete! Total build time: 0.083s
+2021-12-03T08:44:47.130Z - info: [3:44:47 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q3.md
+2021-12-03T08:44:48.142Z - info: Rebuilding 1 pages
+2021-12-03T08:44:48.328Z - info: Site data built
+2021-12-03T08:44:48.329Z - info: Pages rebuilt
+2021-12-03T08:44:48.329Z - info: Website regeneration complete! Total build time: 0.191s
+2021-12-03T08:45:41.601Z - info: [3:45:41 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q3.md
+2021-12-03T08:45:42.610Z - info: Rebuilding 1 pages
+2021-12-03T08:45:42.711Z - info: Site data built
+2021-12-03T08:45:42.712Z - info: Pages rebuilt
+2021-12-03T08:45:42.712Z - info: Website regeneration complete! Total build time: 0.104s
+2021-12-03T08:47:01.396Z - info: [3:47:01 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q3.md
+2021-12-03T08:47:02.415Z - info: Rebuilding 1 pages
+2021-12-03T08:47:02.533Z - info: Site data built
+2021-12-03T08:47:02.533Z - info: Pages rebuilt
+2021-12-03T08:47:02.533Z - info: Website regeneration complete! Total build time: 0.12s
+2021-12-03T08:47:22.336Z - info: [3:47:22 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q3.md
+2021-12-03T08:47:23.344Z - info: Rebuilding 1 pages
+2021-12-03T08:47:23.432Z - info: Site data built
+2021-12-03T08:47:23.432Z - info: Pages rebuilt
+2021-12-03T08:47:23.432Z - info: Website regeneration complete! Total build time: 0.09s
+2021-12-03T08:47:49.005Z - info: [3:47:49 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q3.md
+2021-12-03T08:47:50.013Z - info: Rebuilding 1 pages
+2021-12-03T08:47:50.044Z - info: Site data built
+2021-12-03T08:47:50.044Z - info: Pages rebuilt
+2021-12-03T08:47:50.045Z - info: Website regeneration complete! Total build time: 0.034s
+2021-12-03T08:49:04.713Z - info: [3:49:04 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q3.md
+2021-12-03T08:49:05.762Z - info: Rebuilding 1 pages
+2021-12-03T08:49:05.859Z - info: Site data built
+2021-12-03T08:49:05.859Z - info: Pages rebuilt
+2021-12-03T08:49:05.859Z - info: Website regeneration complete! Total build time: 0.104s
+2021-12-03T08:50:25.715Z - info: [3:50:25 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q3.md
+2021-12-03T08:50:26.743Z - info: Rebuilding 1 pages
+2021-12-03T08:50:26.843Z - info: Site data built
+2021-12-03T08:50:26.843Z - info: Pages rebuilt
+2021-12-03T08:50:26.843Z - info: Website regeneration complete! Total build time: 0.105s
+2021-12-03T08:50:58.360Z - info: [3:50:58 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q3.md
+2021-12-03T08:50:59.366Z - info: Rebuilding 1 pages
+2021-12-03T08:50:59.424Z - info: Site data built
+2021-12-03T08:50:59.424Z - info: Pages rebuilt
+2021-12-03T08:50:59.424Z - info: Website regeneration complete! Total build time: 0.059s
+2021-12-03T08:51:14.729Z - info: [3:51:14 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q3.md
+2021-12-03T08:51:15.735Z - info: Rebuilding 1 pages
+2021-12-03T08:51:15.760Z - info: Site data built
+2021-12-03T08:51:15.761Z - info: Pages rebuilt
+2021-12-03T08:51:15.761Z - info: Website regeneration complete! Total build time: 0.027s
+2021-12-03T08:51:40.001Z - info: [3:51:40 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q3.md
+2021-12-03T08:51:41.011Z - info: Rebuilding 1 pages
+2021-12-03T08:51:41.185Z - info: Site data built
+2021-12-03T08:51:41.185Z - info: Pages rebuilt
+2021-12-03T08:51:41.185Z - info: Website regeneration complete! Total build time: 0.178s
+2021-12-03T08:52:44.523Z - info: [3:52:44 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q3.md
+2021-12-03T08:52:45.539Z - info: Rebuilding 1 pages
+2021-12-03T08:52:45.614Z - info: Site data built
+2021-12-03T08:52:45.614Z - info: Pages rebuilt
+2021-12-03T08:52:45.614Z - info: Website regeneration complete! Total build time: 0.082s
+2021-12-03T08:53:25.794Z - info: [3:53:25 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q3.md
+2021-12-03T08:53:26.802Z - info: Rebuilding 1 pages
+2021-12-03T08:53:26.881Z - info: Site data built
+2021-12-03T08:53:26.881Z - info: Pages rebuilt
+2021-12-03T08:53:26.881Z - info: Website regeneration complete! Total build time: 0.081s
+2021-12-03T08:55:53.892Z - info: [3:55:53 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q3.md
+2021-12-03T08:55:54.961Z - info: Rebuilding 1 pages
+2021-12-03T08:55:55.042Z - info: Site data built
+2021-12-03T08:55:55.042Z - info: Pages rebuilt
+2021-12-03T08:55:55.042Z - info: Website regeneration complete! Total build time: 0.088s
+2021-12-03T08:59:24.854Z - info: [3:59:24 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q3.md
+2021-12-03T08:59:25.872Z - info: Rebuilding 1 pages
+2021-12-03T08:59:25.962Z - info: Site data built
+2021-12-03T08:59:25.962Z - info: Pages rebuilt
+2021-12-03T08:59:25.963Z - info: Website regeneration complete! Total build time: 0.092s
+2021-12-03T08:59:54.049Z - info: Deployed at https://tejas2805.github.io/bombphatnewalahai!
+2021-12-03T10:58:28.980Z - info: Website generation started at 5:58:28 AM
+2021-12-03T10:58:29.080Z - info: Building assets...
+2021-12-03T10:58:29.134Z - info: Assets built
+2021-12-03T10:58:29.135Z - info: Generating pages...
+2021-12-03T10:58:29.480Z - info: Pages built
+2021-12-03T10:58:29.563Z - info: Site data built
+2021-12-03T10:58:29.563Z - info: Website generation complete! Total build time: 0.623s
+2021-12-03T10:58:29.591Z - info: Serving "/Users/tejasbhuwania/Desktop/BombBoom/_site" at http://127.0.0.1:8080
+2021-12-03T10:58:29.592Z - info: Press CTRL+C to stop ...
+2021-12-03T11:00:53.072Z - info: [6:00:53 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q4.md
+2021-12-03T11:00:54.198Z - info: Rebuilding 1 pages
+2021-12-03T11:00:54.456Z - info: Site data built
+2021-12-03T11:00:54.456Z - info: Pages rebuilt
+2021-12-03T11:00:54.462Z - info: Website regeneration complete! Total build time: 0.354s
+2021-12-03T11:03:41.119Z - info: [6:03:41 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q4.md
+2021-12-03T11:03:42.145Z - info: Rebuilding 1 pages
+2021-12-03T11:03:42.240Z - info: Site data built
+2021-12-03T11:03:42.240Z - info: Pages rebuilt
+2021-12-03T11:03:42.240Z - info: Website regeneration complete! Total build time: 0.1s
+2021-12-03T11:03:54.952Z - info: [6:03:54 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q4.md
+2021-12-03T11:03:55.959Z - info: Rebuilding 1 pages
+2021-12-03T11:03:55.981Z - info: Site data built
+2021-12-03T11:03:55.981Z - info: Pages rebuilt
+2021-12-03T11:03:55.981Z - info: Website regeneration complete! Total build time: 0.023s
+2021-12-03T11:09:14.961Z - info: [6:09:14 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q4.md
+2021-12-03T11:09:15.982Z - info: Rebuilding 1 pages
+2021-12-03T11:09:16.044Z - info: Site data built
+2021-12-03T11:09:16.044Z - info: Pages rebuilt
+2021-12-03T11:09:16.045Z - info: Website regeneration complete! Total build time: 0.07s
+2021-12-03T11:09:26.294Z - info: [6:09:26 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q4.md
+2021-12-03T11:09:27.303Z - info: Rebuilding 1 pages
+2021-12-03T11:09:27.377Z - info: Site data built
+2021-12-03T11:09:27.377Z - info: Pages rebuilt
+2021-12-03T11:09:27.378Z - info: Website regeneration complete! Total build time: 0.077s
+2021-12-03T11:09:35.058Z - info: [6:09:35 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q4.md
+2021-12-03T11:09:36.066Z - info: Rebuilding 1 pages
+2021-12-03T11:09:36.122Z - info: Site data built
+2021-12-03T11:09:36.122Z - info: Pages rebuilt
+2021-12-03T11:09:36.122Z - info: Website regeneration complete! Total build time: 0.058s
+2021-12-03T11:09:42.053Z - info: [6:09:42 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q4.md
+2021-12-03T11:09:43.062Z - info: Rebuilding 1 pages
+2021-12-03T11:09:43.116Z - info: Site data built
+2021-12-03T11:09:43.117Z - info: Pages rebuilt
+2021-12-03T11:09:43.117Z - info: Website regeneration complete! Total build time: 0.058s
+2021-12-03T11:09:48.450Z - info: [6:09:48 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q4.md
+2021-12-03T11:09:49.458Z - info: Rebuilding 1 pages
+2021-12-03T11:09:49.512Z - info: Site data built
+2021-12-03T11:09:49.513Z - info: Pages rebuilt
+2021-12-03T11:09:49.513Z - info: Website regeneration complete! Total build time: 0.057s
+2021-12-03T11:09:56.311Z - info: [6:09:56 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q4.md
+2021-12-03T11:09:57.320Z - info: Rebuilding 1 pages
+2021-12-03T11:09:57.360Z - info: Site data built
+2021-12-03T11:09:57.361Z - info: Pages rebuilt
+2021-12-03T11:09:57.361Z - info: Website regeneration complete! Total build time: 0.044s
+2021-12-03T11:12:05.114Z - info: [6:12:05 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q4.md
+2021-12-03T11:12:06.140Z - info: Rebuilding 1 pages
+2021-12-03T11:12:06.212Z - info: Site data built
+2021-12-03T11:12:06.212Z - info: Pages rebuilt
+2021-12-03T11:12:06.212Z - info: Website regeneration complete! Total build time: 0.078s
+2021-12-03T11:12:19.719Z - info: [6:12:19 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q4.md
+2021-12-03T11:12:20.731Z - info: Rebuilding 1 pages
+2021-12-03T11:12:20.789Z - info: Site data built
+2021-12-03T11:12:20.789Z - info: Pages rebuilt
+2021-12-03T11:12:20.789Z - info: Website regeneration complete! Total build time: 0.062s
+2021-12-03T11:21:17.467Z - info: [6:21:17 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q4.md
+2021-12-03T11:21:18.482Z - info: Rebuilding 1 pages
+2021-12-03T11:21:18.558Z - info: Site data built
+2021-12-03T11:21:18.559Z - info: Pages rebuilt
+2021-12-03T11:21:18.559Z - info: Website regeneration complete! Total build time: 0.08s
+2021-12-03T11:21:28.628Z - info: [6:21:28 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q4.md
+2021-12-03T11:21:29.640Z - info: Rebuilding 1 pages
+2021-12-03T11:21:29.692Z - info: Site data built
+2021-12-03T11:21:29.692Z - info: Pages rebuilt
+2021-12-03T11:21:29.693Z - info: Website regeneration complete! Total build time: 0.057s
+2021-12-03T11:22:25.628Z - info: [6:22:25 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q4.md
+2021-12-03T11:22:26.643Z - info: Rebuilding 1 pages
+2021-12-03T11:22:26.713Z - info: Site data built
+2021-12-03T11:22:26.713Z - info: Pages rebuilt
+2021-12-03T11:22:26.713Z - info: Website regeneration complete! Total build time: 0.074s
+2021-12-03T11:22:48.539Z - info: [6:22:48 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q4.md
+2021-12-03T11:22:49.548Z - info: Rebuilding 1 pages
+2021-12-03T11:22:49.614Z - info: Site data built
+2021-12-03T11:22:49.615Z - info: Pages rebuilt
+2021-12-03T11:22:49.615Z - info: Website regeneration complete! Total build time: 0.071s
+2021-12-03T11:23:10.330Z - info: [6:23:10 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q4.md
+2021-12-03T11:23:11.338Z - info: Rebuilding 1 pages
+2021-12-03T11:23:11.406Z - info: Site data built
+2021-12-03T11:23:11.406Z - info: Pages rebuilt
+2021-12-03T11:23:11.406Z - info: Website regeneration complete! Total build time: 0.07s
+2021-12-03T11:23:41.267Z - info: [6:23:41 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q4.md
+2021-12-03T11:23:42.275Z - info: Rebuilding 1 pages
+2021-12-03T11:23:42.422Z - info: Site data built
+2021-12-03T11:23:42.422Z - info: Pages rebuilt
+2021-12-03T11:23:42.422Z - info: Website regeneration complete! Total build time: 0.149s
+2021-12-03T11:24:11.842Z - info: [6:24:11 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q4.md
+2021-12-03T11:24:12.852Z - info: Rebuilding 1 pages
+2021-12-03T11:24:12.939Z - info: Site data built
+2021-12-03T11:24:12.939Z - info: Pages rebuilt
+2021-12-03T11:24:12.939Z - info: Website regeneration complete! Total build time: 0.09s
+2021-12-03T11:30:13.309Z - info: [6:30:13 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/index.md
+2021-12-03T11:30:14.348Z - info: Rebuilding 1 pages
+2021-12-03T11:30:14.502Z - info: Site data built
+2021-12-03T11:30:14.502Z - info: Pages rebuilt
+2021-12-03T11:30:14.502Z - info: Website regeneration complete! Total build time: 0.171s
+2021-12-03T11:39:09.139Z - info: [6:39:09 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q4.md
+2021-12-03T11:39:10.157Z - info: Rebuilding 1 pages
+2021-12-03T11:39:10.244Z - info: Site data built
+2021-12-03T11:39:10.244Z - info: Pages rebuilt
+2021-12-03T11:39:10.245Z - info: Website regeneration complete! Total build time: 0.093s
+2021-12-03T11:39:49.743Z - info: [6:39:49 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q4.md
+2021-12-03T11:39:50.757Z - info: Rebuilding 1 pages
+2021-12-03T11:39:50.873Z - info: Site data built
+2021-12-03T11:39:50.873Z - info: Pages rebuilt
+2021-12-03T11:39:50.873Z - info: Website regeneration complete! Total build time: 0.121s
+2021-12-03T11:40:01.666Z - info: [6:40:01 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q4.md
+2021-12-03T11:40:02.678Z - info: Rebuilding 1 pages
+2021-12-03T11:40:02.778Z - info: Site data built
+2021-12-03T11:40:02.778Z - info: Pages rebuilt
+2021-12-03T11:40:02.778Z - info: Website regeneration complete! Total build time: 0.104s
+2021-12-03T11:40:13.895Z - info: [6:40:13 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q4.md
+2021-12-03T11:40:14.900Z - info: Rebuilding 1 pages
+2021-12-03T11:40:15.002Z - info: Site data built
+2021-12-03T11:40:15.003Z - info: Pages rebuilt
+2021-12-03T11:40:15.003Z - info: Website regeneration complete! Total build time: 0.104s
+2021-12-03T11:40:32.851Z - info: [6:40:32 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q4.md
+2021-12-03T11:40:33.870Z - info: Rebuilding 1 pages
+2021-12-03T11:40:33.980Z - info: Site data built
+2021-12-03T11:40:33.980Z - info: Pages rebuilt
+2021-12-03T11:40:33.980Z - info: Website regeneration complete! Total build time: 0.114s
+2021-12-03T11:40:50.632Z - info: [6:40:50 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q4.md
+2021-12-03T11:40:51.642Z - info: Rebuilding 1 pages
+2021-12-03T11:40:51.701Z - info: Site data built
+2021-12-03T11:40:51.701Z - info: Pages rebuilt
+2021-12-03T11:40:51.701Z - info: Website regeneration complete! Total build time: 0.062s
+2021-12-03T11:42:00.368Z - info: [6:42:00 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q4.md
+2021-12-03T11:42:01.379Z - info: Rebuilding 1 pages
+2021-12-03T11:42:01.452Z - info: Site data built
+2021-12-03T11:42:01.452Z - info: Pages rebuilt
+2021-12-03T11:42:01.456Z - info: Website regeneration complete! Total build time: 0.077s
+2021-12-03T11:43:01.873Z - info: [6:43:01 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q4.md
+2021-12-03T11:43:02.903Z - info: Rebuilding 1 pages
+2021-12-03T11:43:03.376Z - info: Site data built
+2021-12-03T11:43:03.376Z - info: Pages rebuilt
+2021-12-03T11:43:03.376Z - info: Website regeneration complete! Total build time: 0.493s
+2021-12-03T11:43:41.467Z - info: [6:43:41 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q4.md
+2021-12-03T11:43:42.491Z - info: Rebuilding 1 pages
+2021-12-03T11:43:42.650Z - info: Site data built
+2021-12-03T11:43:42.651Z - info: Pages rebuilt
+2021-12-03T11:43:42.651Z - info: Website regeneration complete! Total build time: 0.169s
+2021-12-03T11:43:54.324Z - info: [6:43:54 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q4.md
+2021-12-03T11:43:55.332Z - info: Rebuilding 1 pages
+2021-12-03T11:43:55.447Z - info: Site data built
+2021-12-03T11:43:55.447Z - info: Pages rebuilt
+2021-12-03T11:43:55.447Z - info: Website regeneration complete! Total build time: 0.117s
+2021-12-03T11:44:07.581Z - info: [6:44:07 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q4.md
+2021-12-03T11:44:08.589Z - info: Rebuilding 1 pages
+2021-12-03T11:44:08.688Z - info: Site data built
+2021-12-03T11:44:08.688Z - info: Pages rebuilt
+2021-12-03T11:44:08.688Z - info: Website regeneration complete! Total build time: 0.102s
+2021-12-03T11:44:18.721Z - info: [6:44:18 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q4.md
+2021-12-03T11:44:19.735Z - info: Rebuilding 1 pages
+2021-12-03T11:44:19.845Z - info: Site data built
+2021-12-03T11:44:19.845Z - info: Pages rebuilt
+2021-12-03T11:44:19.845Z - info: Website regeneration complete! Total build time: 0.115s
+2021-12-03T11:44:24.837Z - info: [6:44:24 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q4.md
+2021-12-03T11:44:25.844Z - info: Rebuilding 1 pages
+2021-12-03T11:44:25.945Z - info: Site data built
+2021-12-03T11:44:25.945Z - info: Pages rebuilt
+2021-12-03T11:44:25.945Z - info: Website regeneration complete! Total build time: 0.103s
+2021-12-03T11:44:40.845Z - info: [6:44:40 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q4.md
+2021-12-03T11:44:41.851Z - info: Rebuilding 1 pages
+2021-12-03T11:44:41.963Z - info: Site data built
+2021-12-03T11:44:41.963Z - info: Pages rebuilt
+2021-12-03T11:44:41.963Z - info: Website regeneration complete! Total build time: 0.114s
+2021-12-03T11:46:14.673Z - info: [6:46:14 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q4.md
+2021-12-03T11:46:15.691Z - info: Rebuilding 1 pages
+2021-12-03T11:46:15.818Z - info: Site data built
+2021-12-03T11:46:15.818Z - info: Pages rebuilt
+2021-12-03T11:46:15.819Z - info: Website regeneration complete! Total build time: 0.134s
+2021-12-03T11:46:35.185Z - info: [6:46:35 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q4.md
+2021-12-03T11:46:36.196Z - info: Rebuilding 1 pages
+2021-12-03T11:46:36.299Z - info: Site data built
+2021-12-03T11:46:36.299Z - info: Pages rebuilt
+2021-12-03T11:46:36.299Z - info: Website regeneration complete! Total build time: 0.106s
+2021-12-03T11:47:11.592Z - info: [6:47:11 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q4.md
+2021-12-03T11:47:12.606Z - info: Rebuilding 1 pages
+2021-12-03T11:47:12.749Z - info: Site data built
+2021-12-03T11:47:12.749Z - info: Pages rebuilt
+2021-12-03T11:47:12.749Z - info: Website regeneration complete! Total build time: 0.148s
+2021-12-03T11:47:29.338Z - info: [6:47:29 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q4.md
+2021-12-03T11:47:30.345Z - info: Rebuilding 1 pages
+2021-12-03T11:47:30.524Z - info: Site data built
+2021-12-03T11:47:30.525Z - info: Pages rebuilt
+2021-12-03T11:47:30.525Z - info: Website regeneration complete! Total build time: 0.181s
+2021-12-03T11:47:44.764Z - info: [6:47:44 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q4.md
+2021-12-03T11:47:45.772Z - info: Rebuilding 1 pages
+2021-12-03T11:47:45.934Z - info: Site data built
+2021-12-03T11:47:45.934Z - info: Pages rebuilt
+2021-12-03T11:47:45.934Z - info: Website regeneration complete! Total build time: 0.164s
+2021-12-03T11:48:09.754Z - info: [6:48:09 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q4.md
+2021-12-03T11:48:10.766Z - info: Rebuilding 1 pages
+2021-12-03T11:48:11.087Z - info: Site data built
+2021-12-03T11:48:11.088Z - info: Pages rebuilt
+2021-12-03T11:48:11.088Z - info: Website regeneration complete! Total build time: 0.326s
+2021-12-03T11:48:28.635Z - info: [6:48:28 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q4.md
+2021-12-03T11:48:29.643Z - info: Rebuilding 1 pages
+2021-12-03T11:48:29.774Z - info: Site data built
+2021-12-03T11:48:29.775Z - info: Pages rebuilt
+2021-12-03T11:48:29.775Z - info: Website regeneration complete! Total build time: 0.134s
+2021-12-03T11:48:32.577Z - info: [6:48:32 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q4.md
+2021-12-03T11:48:33.582Z - info: Rebuilding 1 pages
+2021-12-03T11:48:33.705Z - info: Site data built
+2021-12-03T11:48:33.705Z - info: Pages rebuilt
+2021-12-03T11:48:33.705Z - info: Website regeneration complete! Total build time: 0.124s
+2021-12-03T11:48:34.677Z - info: [6:48:34 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q4.md
+2021-12-03T11:48:35.688Z - info: Rebuilding 1 pages
+2021-12-03T11:48:35.822Z - info: Site data built
+2021-12-03T11:48:35.822Z - info: Pages rebuilt
+2021-12-03T11:48:35.822Z - info: Website regeneration complete! Total build time: 0.137s
+2021-12-03T11:49:15.424Z - info: [6:49:15 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q4.md
+2021-12-03T11:49:16.430Z - info: Rebuilding 1 pages
+2021-12-03T11:49:16.555Z - info: Site data built
+2021-12-03T11:49:16.555Z - info: Pages rebuilt
+2021-12-03T11:49:16.556Z - info: Website regeneration complete! Total build time: 0.126s
+2021-12-03T11:49:31.541Z - info: [6:49:31 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q4.md
+2021-12-03T11:49:32.542Z - info: Rebuilding 1 pages
+2021-12-03T11:49:32.649Z - info: Site data built
+2021-12-03T11:49:32.649Z - info: Pages rebuilt
+2021-12-03T11:49:32.649Z - info: Website regeneration complete! Total build time: 0.108s
+2021-12-03T11:50:38.251Z - info: [6:50:38 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q4.md
+2021-12-03T11:50:39.268Z - info: Rebuilding 1 pages
+2021-12-03T11:50:39.455Z - info: Site data built
+2021-12-03T11:50:39.455Z - info: Pages rebuilt
+2021-12-03T11:50:39.455Z - info: Website regeneration complete! Total build time: 0.193s
+2021-12-03T11:50:44.239Z - info: [6:50:44 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q4.md
+2021-12-03T11:50:45.247Z - info: Rebuilding 1 pages
+2021-12-03T11:50:45.414Z - info: Site data built
+2021-12-03T11:50:45.414Z - info: Pages rebuilt
+2021-12-03T11:50:45.414Z - info: Website regeneration complete! Total build time: 0.169s
+2021-12-03T11:51:09.808Z - info: [6:51:09 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q4.md
+2021-12-03T11:51:10.823Z - info: Rebuilding 1 pages
+2021-12-03T11:51:11.042Z - info: Site data built
+2021-12-03T11:51:11.042Z - info: Pages rebuilt
+2021-12-03T11:51:11.042Z - info: Website regeneration complete! Total build time: 0.224s
+2021-12-03T11:51:37.494Z - info: [6:51:37 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q4.md
+2021-12-03T11:51:38.501Z - info: Rebuilding 1 pages
+2021-12-03T11:51:38.666Z - info: Site data built
+2021-12-03T11:51:38.666Z - info: Pages rebuilt
+2021-12-03T11:51:38.666Z - info: Website regeneration complete! Total build time: 0.167s
+2021-12-03T11:51:50.118Z - info: Deployed at https://tejas2805.github.io/bombphatnewalahai!
+2021-12-03T11:52:15.527Z - info: Website generation started at 6:52:15 AM
+2021-12-03T11:52:15.599Z - info: Building assets...
+2021-12-03T11:52:15.643Z - info: Assets built
+2021-12-03T11:52:15.644Z - info: Generating pages...
+2021-12-03T11:52:16.230Z - info: Pages built
+2021-12-03T11:52:16.343Z - info: Site data built
+2021-12-03T11:52:16.344Z - info: Website generation complete! Total build time: 0.856s
+2021-12-03T11:52:16.373Z - info: Serving "/Users/tejasbhuwania/Desktop/BombBoom/_site" at http://127.0.0.1:8080
+2021-12-03T11:52:16.373Z - info: Press CTRL+C to stop ...
+2021-12-03T12:05:42.780Z - info: [7:05:42 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q5.md
+2021-12-03T12:05:43.845Z - info: Rebuilding 1 pages
+2021-12-03T12:05:43.964Z - info: Site data built
+2021-12-03T12:05:43.964Z - info: Pages rebuilt
+2021-12-03T12:05:43.964Z - info: Website regeneration complete! Total build time: 0.13s
+2021-12-03T12:06:04.689Z - info: [7:06:04 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q5.md
+2021-12-03T12:06:05.699Z - info: Rebuilding 1 pages
+2021-12-03T12:06:05.753Z - info: Site data built
+2021-12-03T12:06:05.754Z - info: Pages rebuilt
+2021-12-03T12:06:05.754Z - info: Website regeneration complete! Total build time: 0.058s
+2021-12-03T12:06:13.454Z - info: [7:06:13 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q5.md
+2021-12-03T12:06:14.465Z - info: Rebuilding 1 pages
+2021-12-03T12:06:14.518Z - info: Site data built
+2021-12-03T12:06:14.518Z - info: Pages rebuilt
+2021-12-03T12:06:14.518Z - info: Website regeneration complete! Total build time: 0.058s
+2021-12-03T12:06:27.634Z - info: [7:06:27 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q5.md
+2021-12-03T12:06:28.639Z - info: Rebuilding 1 pages
+2021-12-03T12:06:28.743Z - info: Site data built
+2021-12-03T12:06:28.743Z - info: Pages rebuilt
+2021-12-03T12:06:28.743Z - info: Website regeneration complete! Total build time: 0.106s
+2021-12-03T12:06:54.374Z - info: [7:06:54 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q5.md
+2021-12-03T12:06:55.394Z - info: Rebuilding 1 pages
+2021-12-03T12:06:55.460Z - info: Site data built
+2021-12-03T12:06:55.460Z - info: Pages rebuilt
+2021-12-03T12:06:55.460Z - info: Website regeneration complete! Total build time: 0.075s
+2021-12-03T12:07:10.518Z - info: [7:07:10 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q5.md
+2021-12-03T12:07:11.526Z - info: Rebuilding 1 pages
+2021-12-03T12:07:11.581Z - info: Site data built
+2021-12-03T12:07:11.581Z - info: Pages rebuilt
+2021-12-03T12:07:11.581Z - info: Website regeneration complete! Total build time: 0.057s
+2021-12-03T12:07:18.093Z - info: [7:07:18 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q5.md
+2021-12-03T12:07:19.102Z - info: Rebuilding 1 pages
+2021-12-03T12:07:19.152Z - info: Site data built
+2021-12-03T12:07:19.153Z - info: Pages rebuilt
+2021-12-03T12:07:19.153Z - info: Website regeneration complete! Total build time: 0.055s
+2021-12-03T12:07:29.259Z - info: [7:07:29 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q5.md
+2021-12-03T12:07:30.267Z - info: Rebuilding 1 pages
+2021-12-03T12:07:30.319Z - info: Site data built
+2021-12-03T12:07:30.319Z - info: Pages rebuilt
+2021-12-03T12:07:30.319Z - info: Website regeneration complete! Total build time: 0.054s
+2021-12-03T12:09:06.954Z - info: [7:09:06 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q5.md
+2021-12-03T12:09:07.985Z - info: Rebuilding 1 pages
+2021-12-03T12:09:08.116Z - info: Site data built
+2021-12-03T12:09:08.116Z - info: Pages rebuilt
+2021-12-03T12:09:08.117Z - info: Website regeneration complete! Total build time: 0.141s
+2021-12-03T12:10:21.247Z - info: [7:10:21 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q5.md
+2021-12-03T12:10:22.259Z - info: Rebuilding 1 pages
+2021-12-03T12:10:22.313Z - info: Site data built
+2021-12-03T12:10:22.314Z - info: Pages rebuilt
+2021-12-03T12:10:22.314Z - info: Website regeneration complete! Total build time: 0.06s
+2021-12-03T12:10:38.454Z - info: [7:10:38 AM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q5.md
+2021-12-03T12:10:39.460Z - info: Rebuilding 1 pages
+2021-12-03T12:10:39.523Z - info: Site data built
+2021-12-03T12:10:39.523Z - info: Pages rebuilt
+2021-12-03T12:10:39.524Z - info: Website regeneration complete! Total build time: 0.065s
+2021-12-03T20:56:20.290Z - info: Website generation started at 3:56:20 PM
+2021-12-03T20:56:20.373Z - info: Building assets...
+2021-12-03T20:56:20.427Z - info: Assets built
+2021-12-03T20:56:20.427Z - info: Generating pages...
+2021-12-03T20:56:21.082Z - info: Pages built
+2021-12-03T20:56:21.164Z - info: Site data built
+2021-12-03T20:56:21.164Z - info: Website generation complete! Total build time: 0.968s
+2021-12-03T20:56:21.206Z - info: Serving "/Users/tejasbhuwania/Desktop/BombBoom/_site" at http://127.0.0.1:8080
+2021-12-03T20:56:21.206Z - info: Press CTRL+C to stop ...
+2021-12-03T21:09:41.653Z - info: [4:09:41 PM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q5.md
+2021-12-03T21:09:42.708Z - info: Rebuilding 1 pages
+2021-12-03T21:09:42.834Z - info: Site data built
+2021-12-03T21:09:42.834Z - info: Pages rebuilt
+2021-12-03T21:09:42.834Z - info: Website regeneration complete! Total build time: 0.146s
+2021-12-03T21:09:59.705Z - info: Website generation started at 4:09:59 PM
+2021-12-03T21:09:59.765Z - info: Building assets...
+2021-12-03T21:09:59.803Z - info: Assets built
+2021-12-03T21:09:59.804Z - info: Generating pages...
+2021-12-03T21:10:00.427Z - info: Pages built
+2021-12-03T21:10:00.532Z - info: Site data built
+2021-12-03T21:10:00.532Z - info: Website generation complete! Total build time: 0.869s
+2021-12-03T21:10:00.552Z - info: Serving "/Users/tejasbhuwania/Desktop/BombBoom/_site" at http://127.0.0.1:8080
+2021-12-03T21:10:00.553Z - info: Press CTRL+C to stop ...
+2021-12-03T21:10:59.615Z - info: [4:10:59 PM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q5.md
+2021-12-03T21:11:00.633Z - info: Rebuilding 1 pages
+2021-12-03T21:11:00.720Z - info: Site data built
+2021-12-03T21:11:00.720Z - info: Pages rebuilt
+2021-12-03T21:11:00.720Z - info: Website regeneration complete! Total build time: 0.091s
+2021-12-03T21:11:51.004Z - info: [4:11:51 PM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q5.md
+2021-12-03T21:11:52.012Z - info: Rebuilding 1 pages
+2021-12-03T21:11:52.077Z - info: Site data built
+2021-12-03T21:11:52.077Z - info: Pages rebuilt
+2021-12-03T21:11:52.077Z - info: Website regeneration complete! Total build time: 0.067s
+2021-12-03T21:17:41.721Z - info: [4:17:41 PM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q5.md
+2021-12-03T21:17:42.724Z - info: Rebuilding 1 pages
+2021-12-03T21:17:42.754Z - info: Site data built
+2021-12-03T21:17:42.754Z - info: Pages rebuilt
+2021-12-03T21:17:42.754Z - info: Website regeneration complete! Total build time: 0.031s
+2021-12-03T21:18:04.842Z - info: [4:18:04 PM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q5.md
+2021-12-03T21:18:05.884Z - info: Rebuilding 1 pages
+2021-12-03T21:18:05.978Z - info: Site data built
+2021-12-03T21:18:05.978Z - info: Pages rebuilt
+2021-12-03T21:18:05.978Z - info: Website regeneration complete! Total build time: 0.099s
+2021-12-03T21:22:19.221Z - info: [4:22:19 PM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q5.md
+2021-12-03T21:22:20.231Z - info: Rebuilding 1 pages
+2021-12-03T21:22:20.321Z - info: Site data built
+2021-12-03T21:22:20.321Z - info: Pages rebuilt
+2021-12-03T21:22:20.321Z - info: Website regeneration complete! Total build time: 0.093s
+2021-12-03T21:22:36.889Z - info: [4:22:36 PM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q5.md
+2021-12-03T21:22:37.898Z - info: Rebuilding 1 pages
+2021-12-03T21:22:37.981Z - info: Site data built
+2021-12-03T21:22:37.982Z - info: Pages rebuilt
+2021-12-03T21:22:37.982Z - info: Website regeneration complete! Total build time: 0.087s
+2021-12-03T21:22:49.214Z - info: [4:22:49 PM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q5.md
+2021-12-03T21:22:50.225Z - info: Rebuilding 1 pages
+2021-12-03T21:22:50.293Z - info: Site data built
+2021-12-03T21:22:50.294Z - info: Pages rebuilt
+2021-12-03T21:22:50.294Z - info: Website regeneration complete! Total build time: 0.073s
+2021-12-03T21:53:26.889Z - info: [4:53:26 PM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q6.md
+2021-12-03T21:53:27.917Z - info: Rebuilding 1 pages
+2021-12-03T21:53:28.208Z - info: Site data built
+2021-12-03T21:53:28.208Z - info: Pages rebuilt
+2021-12-03T21:53:28.208Z - info: Website regeneration complete! Total build time: 0.3s
+2021-12-03T21:54:04.451Z - info: [4:54:04 PM] Reload for file deletion: /Users/tejasbhuwania/Desktop/BombBoom/contents/q2 2.md
+2021-12-03T21:54:04.451Z - info: [4:54:04 PM] Reload for file deletion: /Users/tejasbhuwania/Desktop/BombBoom/contents/q3 2.md
+2021-12-03T21:54:04.452Z - info: [4:54:04 PM] Reload for file deletion: /Users/tejasbhuwania/Desktop/BombBoom/contents/q4 2.md
+2021-12-03T21:54:05.483Z - info: Pages or site config modified, updating pages...
+2021-12-03T21:54:06.505Z - debug: Assets removed
+2021-12-03T21:54:06.506Z - warn: Rebuilding all pages...
+2021-12-03T21:54:06.506Z - info: Generating pages...
+2021-12-03T21:54:07.157Z - info: Pages built
+2021-12-03T21:54:54.825Z - info: [4:54:54 PM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q6.md
+2021-12-03T21:54:55.836Z - info: Rebuilding 1 pages
+2021-12-03T21:54:55.944Z - info: Site data built
+2021-12-03T21:54:55.944Z - info: Pages rebuilt
+2021-12-03T21:54:55.944Z - info: Website regeneration complete! Total build time: 0.111s
+2021-12-03T21:55:37.859Z - info: [4:55:37 PM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q6.md
+2021-12-03T21:55:38.867Z - info: Rebuilding 1 pages
+2021-12-03T21:55:39.023Z - info: Site data built
+2021-12-03T21:55:39.023Z - info: Pages rebuilt
+2021-12-03T21:55:39.023Z - info: Website regeneration complete! Total build time: 0.159s
+2021-12-03T21:56:10.696Z - info: [4:56:10 PM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q6.md
+2021-12-03T21:56:11.033Z - info: [4:56:11 PM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q6.md
+2021-12-03T21:56:11.570Z - info: [4:56:11 PM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q6.md
+2021-12-03T21:56:11.702Z - info: Rebuilding 1 pages
+2021-12-03T21:56:11.800Z - info: Site data built
+2021-12-03T21:56:11.800Z - info: Pages rebuilt
+2021-12-03T21:56:11.800Z - info: Website regeneration complete! Total build time: 0.098s
+2021-12-03T21:57:08.121Z - info: [4:57:08 PM] Reload for file add: /Users/tejasbhuwania/Desktop/BombBoom/images/world.jpeg
+2021-12-03T21:57:09.175Z - info: Assets built
+2021-12-03T21:57:20.710Z - info: [4:57:20 PM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q6.md
+2021-12-03T21:57:21.728Z - info: Rebuilding 1 pages
+2021-12-03T21:57:21.860Z - info: Site data built
+2021-12-03T21:57:21.860Z - info: Pages rebuilt
+2021-12-03T21:57:21.860Z - info: Website regeneration complete! Total build time: 0.14s
+2021-12-03T21:57:52.817Z - info: [4:57:52 PM] Reload for file add: /Users/tejasbhuwania/Desktop/BombBoom/images/italy.jpeg
+2021-12-03T21:57:53.869Z - info: Assets built
+2021-12-03T21:58:03.440Z - info: [4:58:03 PM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q6.md
+2021-12-03T21:58:04.453Z - info: Rebuilding 1 pages
+2021-12-03T21:58:04.684Z - info: Site data built
+2021-12-03T21:58:04.685Z - info: Pages rebuilt
+2021-12-03T21:58:04.685Z - info: Website regeneration complete! Total build time: 0.234s
+2021-12-03T21:58:18.870Z - info: [4:58:18 PM] Reload for file add: /Users/tejasbhuwania/Desktop/BombBoom/images/kolkat.jpeg
+2021-12-03T21:58:19.884Z - info: Assets built
+2021-12-03T21:58:27.778Z - info: [4:58:27 PM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q6.md
+2021-12-03T21:58:28.788Z - info: Rebuilding 1 pages
+2021-12-03T21:58:28.928Z - info: Site data built
+2021-12-03T21:58:28.928Z - info: Pages rebuilt
+2021-12-03T21:58:28.928Z - info: Website regeneration complete! Total build time: 0.143s
+2021-12-03T21:58:53.310Z - info: [4:58:53 PM] Reload for file add: /Users/tejasbhuwania/Desktop/BombBoom/images/sydney.jpeg
+2021-12-03T21:58:54.349Z - info: Assets built
+2021-12-03T21:59:04.738Z - info: [4:59:04 PM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q6.md
+2021-12-03T21:59:05.742Z - info: Rebuilding 1 pages
+2021-12-03T21:59:05.890Z - info: Site data built
+2021-12-03T21:59:05.891Z - info: Pages rebuilt
+2021-12-03T21:59:05.891Z - info: Website regeneration complete! Total build time: 0.153s
+2021-12-03T21:59:16.224Z - info: [4:59:16 PM] Reload for file add: /Users/tejasbhuwania/Desktop/BombBoom/images/ranchi.jpeg
+2021-12-03T21:59:17.266Z - info: Assets built
+2021-12-03T21:59:25.932Z - info: [4:59:25 PM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q6.md
+2021-12-03T21:59:26.938Z - info: Rebuilding 1 pages
+2021-12-03T21:59:27.119Z - info: Site data built
+2021-12-03T21:59:27.119Z - info: Pages rebuilt
+2021-12-03T21:59:27.119Z - info: Website regeneration complete! Total build time: 0.182s
+2021-12-03T21:59:38.770Z - info: [4:59:38 PM] Reload for file add: /Users/tejasbhuwania/Desktop/BombBoom/images/maldives.jpeg
+2021-12-03T21:59:39.793Z - info: Assets built
+2021-12-03T21:59:56.412Z - info: [4:59:56 PM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q6.md
+2021-12-03T21:59:57.420Z - info: Rebuilding 1 pages
+2021-12-03T21:59:57.603Z - info: Site data built
+2021-12-03T21:59:57.604Z - info: Pages rebuilt
+2021-12-03T21:59:57.604Z - info: Website regeneration complete! Total build time: 0.186s
+2021-12-03T22:00:05.296Z - info: [5:00:05 PM] Reload for file add: /Users/tejasbhuwania/Desktop/BombBoom/images/chia.jpeg
+2021-12-03T22:00:06.320Z - info: Assets built
+2021-12-03T22:00:22.337Z - info: [5:00:22 PM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q6.md
+2021-12-03T22:00:23.353Z - info: Rebuilding 1 pages
+2021-12-03T22:00:23.534Z - info: Site data built
+2021-12-03T22:00:23.534Z - info: Pages rebuilt
+2021-12-03T22:00:23.534Z - info: Website regeneration complete! Total build time: 0.186s
+2021-12-03T22:01:13.883Z - info: [5:01:13 PM] Reload for file add: /Users/tejasbhuwania/Desktop/BombBoom/images/bintan.jpeg
+2021-12-03T22:01:14.934Z - info: Assets built
+2021-12-03T22:01:24.468Z - info: [5:01:24 PM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q6.md
+2021-12-03T22:01:25.479Z - info: Rebuilding 1 pages
+2021-12-03T22:01:25.639Z - info: Site data built
+2021-12-03T22:01:25.639Z - info: Pages rebuilt
+2021-12-03T22:01:25.639Z - info: Website regeneration complete! Total build time: 0.166s
+2021-12-03T22:01:37.889Z - info: [5:01:37 PM] Reload for file add: /Users/tejasbhuwania/Desktop/BombBoom/images/sg.jpeg
+2021-12-03T22:01:38.918Z - info: Assets built
+2021-12-03T22:01:46.745Z - info: [5:01:46 PM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q6.md
+2021-12-03T22:01:47.754Z - info: Rebuilding 1 pages
+2021-12-03T22:01:47.942Z - info: Site data built
+2021-12-03T22:01:47.942Z - info: Pages rebuilt
+2021-12-03T22:01:47.942Z - info: Website regeneration complete! Total build time: 0.19s
+2021-12-03T22:02:06.528Z - info: [5:02:06 PM] Reload for file add: /Users/tejasbhuwania/Desktop/BombBoom/images/f1.jpeg
+2021-12-03T22:02:07.544Z - info: Assets built
+2021-12-03T22:02:16.310Z - info: [5:02:16 PM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q6.md
+2021-12-03T22:02:17.317Z - info: Rebuilding 1 pages
+2021-12-03T22:02:17.457Z - info: Site data built
+2021-12-03T22:02:17.457Z - info: Pages rebuilt
+2021-12-03T22:02:17.458Z - info: Website regeneration complete! Total build time: 0.143s
+2021-12-03T22:02:34.852Z - info: [5:02:34 PM] Reload for file add: /Users/tejasbhuwania/Desktop/BombBoom/images/london.jpeg
+2021-12-03T22:02:35.879Z - info: Assets built
+2021-12-03T22:02:52.464Z - info: [5:02:52 PM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q6.md
+2021-12-03T22:02:53.476Z - info: Rebuilding 1 pages
+2021-12-03T22:02:53.673Z - info: Site data built
+2021-12-03T22:02:53.674Z - info: Pages rebuilt
+2021-12-03T22:02:53.674Z - info: Website regeneration complete! Total build time: 0.203s
+2021-12-03T22:03:27.717Z - info: [5:03:27 PM] Reload for file add: /Users/tejasbhuwania/Desktop/BombBoom/images/bigben.jpeg
+2021-12-03T22:03:28.738Z - info: Assets built
+2021-12-03T22:03:34.148Z - info: [5:03:34 PM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q6.md
+2021-12-03T22:03:35.177Z - info: Rebuilding 1 pages
+2021-12-03T22:03:35.303Z - info: Site data built
+2021-12-03T22:03:35.304Z - info: Pages rebuilt
+2021-12-03T22:03:35.304Z - info: Website regeneration complete! Total build time: 0.135s
+2021-12-03T22:04:28.275Z - info: [5:04:28 PM] Reload for file add: /Users/tejasbhuwania/Desktop/BombBoom/images/chennai.jpeg
+2021-12-03T22:04:29.318Z - info: Assets built
+2021-12-03T22:04:44.755Z - info: [5:04:44 PM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q6.md
+2021-12-03T22:04:45.765Z - info: Rebuilding 1 pages
+2021-12-03T22:04:45.934Z - info: Site data built
+2021-12-03T22:04:45.934Z - info: Pages rebuilt
+2021-12-03T22:04:45.934Z - info: Website regeneration complete! Total build time: 0.173s
+2021-12-03T22:05:21.493Z - info: [5:05:21 PM] Reload for file add: /Users/tejasbhuwania/Desktop/BombBoom/images/goa.jpeg
+2021-12-03T22:05:22.526Z - info: Assets built
+2021-12-03T22:06:10.457Z - info: [5:06:10 PM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q6.md
+2021-12-03T22:06:11.473Z - info: Rebuilding 1 pages
+2021-12-03T22:06:11.713Z - info: Site data built
+2021-12-03T22:06:11.713Z - info: Pages rebuilt
+2021-12-03T22:06:11.713Z - info: Website regeneration complete! Total build time: 0.243s
+2021-12-03T22:06:38.354Z - info: [5:06:38 PM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q6.md
+2021-12-03T22:06:39.364Z - info: Rebuilding 1 pages
+2021-12-03T22:06:39.561Z - info: Site data built
+2021-12-03T22:06:39.561Z - info: Pages rebuilt
+2021-12-03T22:06:39.561Z - info: Website regeneration complete! Total build time: 0.2s
+2021-12-03T22:07:27.828Z - info: [5:07:27 PM] Reload for file add: /Users/tejasbhuwania/Desktop/BombBoom/images/mommy.png
+2021-12-03T22:07:28.861Z - info: Assets built
+2021-12-03T22:07:54.374Z - info: [5:07:54 PM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q6.md
+2021-12-03T22:07:55.393Z - info: Rebuilding 1 pages
+2021-12-03T22:07:55.547Z - info: Site data built
+2021-12-03T22:07:55.547Z - info: Pages rebuilt
+2021-12-03T22:07:55.548Z - info: Website regeneration complete! Total build time: 0.159s
+2021-12-03T22:08:55.608Z - info: [5:08:55 PM] Reload for file add: /Users/tejasbhuwania/Desktop/BombBoom/images/mbs.jpeg
+2021-12-03T22:08:56.664Z - info: Assets built
+2021-12-03T22:09:06.737Z - info: [5:09:06 PM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q6.md
+2021-12-03T22:09:07.748Z - info: Rebuilding 1 pages
+2021-12-03T22:09:07.876Z - info: Site data built
+2021-12-03T22:09:07.877Z - info: Pages rebuilt
+2021-12-03T22:09:07.877Z - info: Website regeneration complete! Total build time: 0.132s
+2021-12-03T22:09:16.841Z - info: [5:09:16 PM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q6.md
+2021-12-03T22:09:17.864Z - info: Rebuilding 1 pages
+2021-12-03T22:09:18.007Z - info: Site data built
+2021-12-03T22:09:18.007Z - info: Pages rebuilt
+2021-12-03T22:09:18.007Z - info: Website regeneration complete! Total build time: 0.146s
+2021-12-03T22:09:23.137Z - info: [5:09:23 PM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q6.md
+2021-12-03T22:09:24.145Z - info: Rebuilding 1 pages
+2021-12-03T22:09:24.312Z - info: Site data built
+2021-12-03T22:09:24.312Z - info: Pages rebuilt
+2021-12-03T22:09:24.312Z - info: Website regeneration complete! Total build time: 0.17s
+2021-12-03T22:09:33.653Z - info: [5:09:33 PM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q6.md
+2021-12-03T22:09:34.664Z - info: Rebuilding 1 pages
+2021-12-03T22:09:34.784Z - info: Site data built
+2021-12-03T22:09:34.785Z - info: Pages rebuilt
+2021-12-03T22:09:34.785Z - info: Website regeneration complete! Total build time: 0.124s
+2021-12-03T22:09:38.887Z - info: [5:09:38 PM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q6.md
+2021-12-03T22:09:39.895Z - info: Rebuilding 1 pages
+2021-12-03T22:09:40.005Z - info: Site data built
+2021-12-03T22:09:40.005Z - info: Pages rebuilt
+2021-12-03T22:09:40.005Z - info: Website regeneration complete! Total build time: 0.112s
+2021-12-03T22:09:53.112Z - info: [5:09:53 PM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q6.md
+2021-12-03T22:09:54.125Z - info: Rebuilding 1 pages
+2021-12-03T22:09:54.239Z - info: Site data built
+2021-12-03T22:09:54.239Z - info: Pages rebuilt
+2021-12-03T22:09:54.239Z - info: Website regeneration complete! Total build time: 0.12s
+2021-12-03T22:10:18.102Z - info: [5:10:18 PM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q6.md
+2021-12-03T22:10:19.112Z - info: Rebuilding 1 pages
+2021-12-03T22:10:19.264Z - info: Site data built
+2021-12-03T22:10:19.264Z - info: Pages rebuilt
+2021-12-03T22:10:19.265Z - info: Website regeneration complete! Total build time: 0.156s
+2021-12-03T22:10:27.553Z - info: [5:10:27 PM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q6.md
+2021-12-03T22:10:28.559Z - info: Rebuilding 1 pages
+2021-12-03T22:10:28.680Z - info: Site data built
+2021-12-03T22:10:28.680Z - info: Pages rebuilt
+2021-12-03T22:10:28.680Z - info: Website regeneration complete! Total build time: 0.122s
+2021-12-03T22:10:42.600Z - info: [5:10:42 PM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q6.md
+2021-12-03T22:10:43.608Z - info: Rebuilding 1 pages
+2021-12-03T22:10:43.719Z - info: Site data built
+2021-12-03T22:10:43.719Z - info: Pages rebuilt
+2021-12-03T22:10:43.719Z - info: Website regeneration complete! Total build time: 0.113s
+2021-12-03T22:11:01.340Z - info: [5:11:01 PM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q6.md
+2021-12-03T22:11:02.350Z - info: Rebuilding 1 pages
+2021-12-03T22:11:02.481Z - info: Site data built
+2021-12-03T22:11:02.481Z - info: Pages rebuilt
+2021-12-03T22:11:02.481Z - info: Website regeneration complete! Total build time: 0.134s
+2021-12-03T22:12:14.165Z - info: [5:12:14 PM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q6.md
+2021-12-03T22:12:15.168Z - info: Rebuilding 1 pages
+2021-12-03T22:12:15.319Z - info: Site data built
+2021-12-03T22:12:15.319Z - info: Pages rebuilt
+2021-12-03T22:12:15.319Z - info: Website regeneration complete! Total build time: 0.152s
+2021-12-03T22:13:38.128Z - info: [5:13:38 PM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q5.md
+2021-12-03T22:13:39.143Z - info: Rebuilding 1 pages
+2021-12-03T22:13:39.241Z - info: Site data built
+2021-12-03T22:13:39.241Z - info: Pages rebuilt
+2021-12-03T22:13:39.241Z - info: Website regeneration complete! Total build time: 0.102s
+2021-12-03T22:13:56.145Z - info: [5:13:56 PM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q5.md
+2021-12-03T22:13:57.156Z - info: Rebuilding 1 pages
+2021-12-03T22:13:57.236Z - info: Site data built
+2021-12-03T22:13:57.237Z - info: Pages rebuilt
+2021-12-03T22:13:57.237Z - info: Website regeneration complete! Total build time: 0.085s
+2021-12-03T22:14:15.075Z - info: [5:14:15 PM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q5.md
+2021-12-03T22:14:16.083Z - info: Rebuilding 1 pages
+2021-12-03T22:14:16.156Z - info: Site data built
+2021-12-03T22:14:16.156Z - info: Pages rebuilt
+2021-12-03T22:14:16.156Z - info: Website regeneration complete! Total build time: 0.075s
+2021-12-03T22:14:27.412Z - info: [5:14:27 PM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q5.md
+2021-12-03T22:14:28.420Z - info: Rebuilding 1 pages
+2021-12-03T22:14:28.485Z - info: Site data built
+2021-12-03T22:14:28.485Z - info: Pages rebuilt
+2021-12-03T22:14:28.486Z - info: Website regeneration complete! Total build time: 0.066s
+2021-12-03T22:14:49.257Z - info: [5:14:49 PM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q5.md
+2021-12-03T22:14:50.266Z - info: Rebuilding 1 pages
+2021-12-03T22:14:50.381Z - info: Site data built
+2021-12-03T22:14:50.381Z - info: Pages rebuilt
+2021-12-03T22:14:50.381Z - info: Website regeneration complete! Total build time: 0.118s
+2021-12-03T22:15:06.172Z - info: [5:15:06 PM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q5.md
+2021-12-03T22:15:07.180Z - info: Rebuilding 1 pages
+2021-12-03T22:15:07.247Z - info: Site data built
+2021-12-03T22:15:07.247Z - info: Pages rebuilt
+2021-12-03T22:15:07.247Z - info: Website regeneration complete! Total build time: 0.069s
+2021-12-03T22:15:36.456Z - info: [5:15:36 PM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q5.md
+2021-12-03T22:15:37.464Z - info: Rebuilding 1 pages
+2021-12-03T22:15:37.519Z - info: Site data built
+2021-12-03T22:15:37.519Z - info: Pages rebuilt
+2021-12-03T22:15:37.519Z - info: Website regeneration complete! Total build time: 0.057s
+2021-12-03T22:15:57.209Z - info: [5:15:57 PM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q5.md
+2021-12-03T22:15:58.213Z - info: Rebuilding 1 pages
+2021-12-03T22:15:58.265Z - info: Site data built
+2021-12-03T22:15:58.265Z - info: Pages rebuilt
+2021-12-03T22:15:58.265Z - info: Website regeneration complete! Total build time: 0.053s
+2021-12-03T22:16:44.965Z - info: [5:16:44 PM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q5.md
+2021-12-03T22:16:45.976Z - info: Rebuilding 1 pages
+2021-12-03T22:16:46.032Z - info: Site data built
+2021-12-03T22:16:46.033Z - info: Pages rebuilt
+2021-12-03T22:16:46.033Z - info: Website regeneration complete! Total build time: 0.06s
+2021-12-03T22:17:26.053Z - info: [5:17:26 PM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q5.md
+2021-12-03T22:17:27.061Z - info: Rebuilding 1 pages
+2021-12-03T22:17:27.118Z - info: Site data built
+2021-12-03T22:17:27.118Z - info: Pages rebuilt
+2021-12-03T22:17:27.118Z - info: Website regeneration complete! Total build time: 0.059s
+2021-12-03T22:17:36.942Z - info: [5:17:36 PM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q5.md
+2021-12-03T22:17:37.951Z - info: Rebuilding 1 pages
+2021-12-03T22:17:38.062Z - info: Site data built
+2021-12-03T22:17:38.063Z - info: Pages rebuilt
+2021-12-03T22:17:38.063Z - info: Website regeneration complete! Total build time: 0.114s
+2021-12-03T22:17:48.329Z - info: [5:17:48 PM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q5.md
+2021-12-03T22:17:49.334Z - info: Rebuilding 1 pages
+2021-12-03T22:17:49.387Z - info: Site data built
+2021-12-03T22:17:49.387Z - info: Pages rebuilt
+2021-12-03T22:17:49.387Z - info: Website regeneration complete! Total build time: 0.055s
+2021-12-03T22:17:56.890Z - info: [5:17:56 PM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q5.md
+2021-12-03T22:17:57.896Z - info: Rebuilding 1 pages
+2021-12-03T22:17:57.960Z - info: Site data built
+2021-12-03T22:17:57.960Z - info: Pages rebuilt
+2021-12-03T22:17:57.961Z - info: Website regeneration complete! Total build time: 0.066s
+2021-12-03T22:18:03.815Z - info: [5:18:03 PM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q5.md
+2021-12-03T22:18:04.822Z - info: Rebuilding 1 pages
+2021-12-03T22:18:04.879Z - info: Site data built
+2021-12-03T22:18:04.879Z - info: Pages rebuilt
+2021-12-03T22:18:04.879Z - info: Website regeneration complete! Total build time: 0.059s
+2021-12-03T22:18:17.176Z - info: [5:18:17 PM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q5.md
+2021-12-03T22:18:18.184Z - info: Rebuilding 1 pages
+2021-12-03T22:18:18.249Z - info: Site data built
+2021-12-03T22:18:18.250Z - info: Pages rebuilt
+2021-12-03T22:18:18.250Z - info: Website regeneration complete! Total build time: 0.068s
+2021-12-03T22:18:46.513Z - info: [5:18:46 PM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q5.md
+2021-12-03T22:18:47.521Z - info: Rebuilding 1 pages
+2021-12-03T22:18:47.594Z - info: Site data built
+2021-12-03T22:18:47.594Z - info: Pages rebuilt
+2021-12-03T22:18:47.594Z - info: Website regeneration complete! Total build time: 0.075s
+2021-12-03T22:19:03.862Z - info: [5:19:03 PM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q5.md
+2021-12-03T22:19:04.871Z - info: Rebuilding 1 pages
+2021-12-03T22:19:04.995Z - info: Site data built
+2021-12-03T22:19:04.996Z - info: Pages rebuilt
+2021-12-03T22:19:04.996Z - info: Website regeneration complete! Total build time: 0.127s
+2021-12-03T22:19:12.138Z - info: [5:19:12 PM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q5.md
+2021-12-03T22:19:13.145Z - info: Rebuilding 1 pages
+2021-12-03T22:19:13.228Z - info: Site data built
+2021-12-03T22:19:13.228Z - info: Pages rebuilt
+2021-12-03T22:19:13.228Z - info: Website regeneration complete! Total build time: 0.085s
+2021-12-03T22:19:50.244Z - info: [5:19:50 PM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q5.md
+2021-12-03T22:19:51.252Z - info: Rebuilding 1 pages
+2021-12-03T22:19:51.302Z - info: Site data built
+2021-12-03T22:19:51.302Z - info: Pages rebuilt
+2021-12-03T22:19:51.302Z - info: Website regeneration complete! Total build time: 0.052s
+2021-12-03T22:21:19.152Z - info: Deployed at https://tejas2805.github.io/bombphatnewalahai!
+2021-12-03T23:17:38.673Z - info: Website generation started at 6:17:38 PM
+2021-12-03T23:17:38.740Z - info: Building assets...
+2021-12-03T23:17:38.792Z - info: Assets built
+2021-12-03T23:17:38.793Z - info: Generating pages...
+2021-12-03T23:17:39.422Z - info: Pages built
+2021-12-03T23:17:39.488Z - info: Site data built
+2021-12-03T23:17:39.488Z - info: Website generation complete! Total build time: 0.896s
+2021-12-03T23:17:39.516Z - info: Serving "/Users/tejasbhuwania/Desktop/BombBoom/_site" at http://127.0.0.1:8080
+2021-12-03T23:17:39.517Z - info: Press CTRL+C to stop ...
+2021-12-03T23:18:05.821Z - info: [6:18:05 PM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q5.md
+2021-12-03T23:18:06.832Z - info: Rebuilding 1 pages
+2021-12-03T23:18:06.875Z - info: Site data built
+2021-12-03T23:18:06.876Z - info: Pages rebuilt
+2021-12-03T23:18:06.876Z - info: Website regeneration complete! Total build time: 0.047s
+2021-12-03T23:18:37.427Z - info: [6:18:37 PM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q5.md
+2021-12-03T23:18:38.431Z - info: Rebuilding 1 pages
+2021-12-03T23:18:38.457Z - info: Site data built
+2021-12-03T23:18:38.457Z - info: Pages rebuilt
+2021-12-03T23:18:38.457Z - info: Website regeneration complete! Total build time: 0.027s
+2021-12-03T23:19:14.339Z - info: [6:19:14 PM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q5.md
+2021-12-03T23:19:15.340Z - info: Rebuilding 1 pages
+2021-12-03T23:19:15.379Z - info: Site data built
+2021-12-03T23:19:15.380Z - info: Pages rebuilt
+2021-12-03T23:19:15.380Z - info: Website regeneration complete! Total build time: 0.04s
+2021-12-03T23:19:48.937Z - info: [6:19:48 PM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q5.md
+2021-12-03T23:19:49.942Z - info: Rebuilding 1 pages
+2021-12-03T23:19:50.030Z - info: Site data built
+2021-12-03T23:19:50.031Z - info: Pages rebuilt
+2021-12-03T23:19:50.031Z - info: Website regeneration complete! Total build time: 0.091s
+2021-12-03T23:20:07.959Z - info: [6:20:07 PM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q5.md
+2021-12-03T23:20:08.964Z - info: Rebuilding 1 pages
+2021-12-03T23:20:08.991Z - info: Site data built
+2021-12-03T23:20:08.991Z - info: Pages rebuilt
+2021-12-03T23:20:08.991Z - info: Website regeneration complete! Total build time: 0.029s
+2021-12-03T23:20:26.573Z - info: [6:20:26 PM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q5.md
+2021-12-03T23:20:27.580Z - info: Rebuilding 1 pages
+2021-12-03T23:20:27.636Z - info: Site data built
+2021-12-03T23:20:27.636Z - info: Pages rebuilt
+2021-12-03T23:20:27.637Z - info: Website regeneration complete! Total build time: 0.058s
+2021-12-04T00:53:55.306Z - info: Website generation started at 7:53:55 PM
+2021-12-04T00:53:55.384Z - info: Building assets...
+2021-12-04T00:53:55.437Z - info: Assets built
+2021-12-04T00:53:55.437Z - info: Generating pages...
+2021-12-04T00:53:56.059Z - info: Pages built
+2021-12-04T00:53:56.144Z - info: Site data built
+2021-12-04T00:53:56.144Z - info: Website generation complete! Total build time: 0.912s
+2021-12-04T00:53:56.172Z - info: Serving "/Users/tejasbhuwania/Desktop/BombBoom/_site" at http://127.0.0.1:8080
+2021-12-04T00:53:56.173Z - info: Press CTRL+C to stop ...
+2021-12-04T00:55:41.787Z - info: [7:55:41 PM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q4.md
+2021-12-04T00:55:41.809Z - info: [7:55:41 PM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q5.md
+2021-12-04T00:55:42.836Z - info: Rebuilding 2 pages
+2021-12-04T00:55:43.135Z - info: Site data built
+2021-12-04T00:55:43.135Z - info: Pages rebuilt
+2021-12-04T00:55:43.135Z - info: Website regeneration complete! Total build time: 0.317s
+2021-12-04T00:56:35.255Z - info: [7:56:35 PM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q6.md
+2021-12-04T00:56:36.265Z - info: Rebuilding 1 pages
+2021-12-04T00:56:36.409Z - info: Site data built
+2021-12-04T00:56:36.409Z - info: Pages rebuilt
+2021-12-04T00:56:36.410Z - info: Website regeneration complete! Total build time: 0.148s
+2021-12-04T00:58:22.456Z - info: [7:58:22 PM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q2.md
+2021-12-04T00:58:23.470Z - info: Rebuilding 1 pages
+2021-12-04T00:58:23.621Z - info: Site data built
+2021-12-04T00:58:23.621Z - info: Pages rebuilt
+2021-12-04T00:58:23.621Z - info: Website regeneration complete! Total build time: 0.156s
+2021-12-04T00:58:59.740Z - info: [7:58:59 PM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q2.md
+2021-12-04T00:59:00.751Z - info: Rebuilding 1 pages
+2021-12-04T00:59:00.919Z - info: Site data built
+2021-12-04T00:59:00.919Z - info: Pages rebuilt
+2021-12-04T00:59:00.919Z - info: Website regeneration complete! Total build time: 0.172s
+2021-12-04T01:00:03.531Z - info: [8:00:03 PM] Reload for file add: /Users/tejasbhuwania/Desktop/BombBoom/images/manjha.jpeg
+2021-12-04T01:00:04.598Z - info: Assets built
+2021-12-04T01:00:12.605Z - info: [8:00:12 PM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q2.md
+2021-12-04T01:00:13.618Z - info: Rebuilding 1 pages
+2021-12-04T01:00:13.741Z - info: Site data built
+2021-12-04T01:00:13.741Z - info: Pages rebuilt
+2021-12-04T01:00:13.742Z - info: Website regeneration complete! Total build time: 0.128s
+2021-12-04T01:00:22.902Z - info: [8:00:22 PM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q2.md
+2021-12-04T01:00:23.912Z - info: Rebuilding 1 pages
+2021-12-04T01:00:24.037Z - info: Site data built
+2021-12-04T01:00:24.038Z - info: Pages rebuilt
+2021-12-04T01:00:24.038Z - info: Website regeneration complete! Total build time: 0.129s
+2021-12-04T01:04:46.966Z - info: [8:04:46 PM] Reload for file add: /Users/tejasbhuwania/Desktop/BombBoom/images/mandi.jpg
+2021-12-04T01:04:48.065Z - info: Assets built
+2021-12-04T01:04:56.442Z - info: [8:04:56 PM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q5.md
+2021-12-04T01:04:57.488Z - info: Rebuilding 1 pages
+2021-12-04T01:04:57.719Z - info: Site data built
+2021-12-04T01:04:57.720Z - info: Pages rebuilt
+2021-12-04T01:04:57.720Z - info: Website regeneration complete! Total build time: 0.264s
+2021-12-04T01:05:19.062Z - info: [8:05:19 PM] Reload for file add: /Users/tejasbhuwania/Desktop/BombBoom/images/WhatsApp Image 2021-12-03 at 12.25.24 PM (2).jpeg
+2021-12-04T01:05:20.087Z - info: Assets built
+2021-12-04T01:05:24.076Z - info: [8:05:24 PM] Reload for file deletion: /Users/tejasbhuwania/Desktop/BombBoom/images/WhatsApp Image 2021-12-03 at 12.25.24 PM (2).jpeg
+2021-12-04T01:05:24.078Z - info: [8:05:24 PM] Reload for file add: /Users/tejasbhuwania/Desktop/BombBoom/images/ayushi.jpeg
+2021-12-04T01:05:25.094Z - debug: Assets removed
+2021-12-04T01:05:25.097Z - info: Assets built
+2021-12-04T01:06:21.504Z - info: [8:06:21 PM] Reload for file add: /Users/tejasbhuwania/Desktop/BombBoom/images/anshul.jpeg
+2021-12-04T01:06:22.517Z - info: Assets built
+2021-12-04T01:06:52.153Z - info: [8:06:52 PM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q5.md
+2021-12-04T01:06:53.162Z - info: Rebuilding 1 pages
+2021-12-04T01:06:53.202Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/bombphatnewalahai/images/anshul.jpg' found in file '/Users/tejasbhuwania/Desktop/BombBoom/contents/q5.md'
+2021-12-04T01:06:53.256Z - info: Site data built
+2021-12-04T01:06:53.256Z - info: Pages rebuilt
+2021-12-04T01:06:53.257Z - info: Website regeneration complete! Total build time: 0.096s
+2021-12-04T01:06:56.498Z - info: [8:06:56 PM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q5.md
+2021-12-04T01:06:57.506Z - info: Rebuilding 1 pages
+2021-12-04T01:06:57.593Z - info: Site data built
+2021-12-04T01:06:57.593Z - info: Pages rebuilt
+2021-12-04T01:06:57.593Z - info: Website regeneration complete! Total build time: 0.088s
+2021-12-04T01:07:08.049Z - info: [8:07:08 PM] Reload for file add: /Users/tejasbhuwania/Desktop/BombBoom/images/soumil.jpeg
+2021-12-04T01:07:09.068Z - info: Assets built
+2021-12-04T01:07:16.301Z - info: [8:07:16 PM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q5.md
+2021-12-04T01:07:17.308Z - info: Rebuilding 1 pages
+2021-12-04T01:07:17.375Z - info: Site data built
+2021-12-04T01:07:17.375Z - info: Pages rebuilt
+2021-12-04T01:07:17.375Z - info: Website regeneration complete! Total build time: 0.068s
+2021-12-04T01:07:41.189Z - info: [8:07:41 PM] Reload for file add: /Users/tejasbhuwania/Desktop/BombBoom/images/atharva.HEIC
+2021-12-04T01:07:42.219Z - info: Assets built
+2021-12-04T01:08:05.355Z - info: [8:08:05 PM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q5.md
+2021-12-04T01:08:06.369Z - info: Rebuilding 1 pages
+2021-12-04T01:08:06.467Z - info: Site data built
+2021-12-04T01:08:06.467Z - info: Pages rebuilt
+2021-12-04T01:08:06.467Z - info: Website regeneration complete! Total build time: 0.101s
+2021-12-04T01:08:42.363Z - info: [8:08:42 PM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q5.md
+2021-12-04T01:08:43.374Z - info: Rebuilding 1 pages
+2021-12-04T01:08:43.427Z - info: Site data built
+2021-12-04T01:08:43.427Z - info: Pages rebuilt
+2021-12-04T01:08:43.427Z - info: Website regeneration complete! Total build time: 0.054s
+2021-12-04T01:09:22.867Z - info: [8:09:22 PM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q5.md
+2021-12-04T01:09:23.873Z - info: Rebuilding 1 pages
+2021-12-04T01:09:23.929Z - info: Site data built
+2021-12-04T01:09:23.929Z - info: Pages rebuilt
+2021-12-04T01:09:23.929Z - info: Website regeneration complete! Total build time: 0.057s
+2021-12-04T01:10:17.609Z - info: [8:10:17 PM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q5.md
+2021-12-04T01:10:18.628Z - info: Rebuilding 1 pages
+2021-12-04T01:10:18.775Z - info: Site data built
+2021-12-04T01:10:18.776Z - info: Pages rebuilt
+2021-12-04T01:10:18.776Z - info: Website regeneration complete! Total build time: 0.152s
+2021-12-04T01:12:10.356Z - info: [8:12:10 PM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q5.md
+2021-12-04T01:12:11.374Z - info: Rebuilding 1 pages
+2021-12-04T01:12:11.476Z - info: Site data built
+2021-12-04T01:12:11.476Z - info: Pages rebuilt
+2021-12-04T01:12:11.476Z - info: Website regeneration complete! Total build time: 0.104s
+2021-12-04T01:13:06.980Z - info: [8:13:06 PM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q5.md
+2021-12-04T01:13:07.991Z - info: Rebuilding 1 pages
+2021-12-04T01:13:08.060Z - info: Site data built
+2021-12-04T01:13:08.060Z - info: Pages rebuilt
+2021-12-04T01:13:08.060Z - info: Website regeneration complete! Total build time: 0.072s
+2021-12-04T01:13:21.290Z - info: [8:13:21 PM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q5.md
+2021-12-04T01:13:22.294Z - info: Rebuilding 1 pages
+2021-12-04T01:13:22.404Z - info: Site data built
+2021-12-04T01:13:22.404Z - info: Pages rebuilt
+2021-12-04T01:13:22.404Z - info: Website regeneration complete! Total build time: 0.112s
+2021-12-04T01:13:55.278Z - info: [8:13:55 PM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q5.md
+2021-12-04T01:13:56.284Z - info: Rebuilding 1 pages
+2021-12-04T01:13:56.360Z - info: Site data built
+2021-12-04T01:13:56.361Z - info: Pages rebuilt
+2021-12-04T01:13:56.361Z - info: Website regeneration complete! Total build time: 0.078s
+2021-12-04T01:14:23.816Z - info: [8:14:23 PM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q5.md
+2021-12-04T01:14:24.824Z - info: Rebuilding 1 pages
+2021-12-04T01:14:24.899Z - info: Site data built
+2021-12-04T01:14:24.899Z - info: Pages rebuilt
+2021-12-04T01:14:24.899Z - info: Website regeneration complete! Total build time: 0.078s
+2021-12-04T01:15:04.358Z - info: [8:15:04 PM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q5.md
+2021-12-04T01:15:05.367Z - info: Rebuilding 1 pages
+2021-12-04T01:15:05.446Z - info: Site data built
+2021-12-04T01:15:05.446Z - info: Pages rebuilt
+2021-12-04T01:15:05.446Z - info: Website regeneration complete! Total build time: 0.081s
+2021-12-04T01:15:14.341Z - info: [8:15:14 PM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q5.md
+2021-12-04T01:15:15.347Z - info: Rebuilding 1 pages
+2021-12-04T01:15:15.410Z - info: Site data built
+2021-12-04T01:15:15.410Z - info: Pages rebuilt
+2021-12-04T01:15:15.410Z - info: Website regeneration complete! Total build time: 0.064s
+2021-12-04T01:15:37.121Z - info: [8:15:37 PM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q5.md
+2021-12-04T01:15:38.128Z - info: Rebuilding 1 pages
+2021-12-04T01:15:38.234Z - info: Site data built
+2021-12-04T01:15:38.234Z - info: Pages rebuilt
+2021-12-04T01:15:38.234Z - info: Website regeneration complete! Total build time: 0.108s
+2021-12-04T01:15:52.808Z - info: [8:15:52 PM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q5.md
+2021-12-04T01:15:53.817Z - info: Rebuilding 1 pages
+2021-12-04T01:15:53.898Z - info: Site data built
+2021-12-04T01:15:53.899Z - info: Pages rebuilt
+2021-12-04T01:15:53.899Z - info: Website regeneration complete! Total build time: 0.084s
+2021-12-04T01:16:03.588Z - info: [8:16:03 PM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q5.md
+2021-12-04T01:16:04.590Z - info: Rebuilding 1 pages
+2021-12-04T01:16:04.620Z - info: Site data built
+2021-12-04T01:16:04.620Z - info: Pages rebuilt
+2021-12-04T01:16:04.620Z - info: Website regeneration complete! Total build time: 0.031s
+2021-12-04T01:16:22.499Z - info: [8:16:22 PM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q5.md
+2021-12-04T01:16:23.505Z - info: Rebuilding 1 pages
+2021-12-04T01:16:23.564Z - info: Site data built
+2021-12-04T01:16:23.564Z - info: Pages rebuilt
+2021-12-04T01:16:23.564Z - info: Website regeneration complete! Total build time: 0.06s
+2021-12-04T01:16:41.731Z - info: [8:16:41 PM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q5.md
+2021-12-04T01:16:42.738Z - info: Rebuilding 1 pages
+2021-12-04T01:16:42.824Z - info: Site data built
+2021-12-04T01:16:42.824Z - info: Pages rebuilt
+2021-12-04T01:16:42.825Z - info: Website regeneration complete! Total build time: 0.089s
+2021-12-04T01:16:53.283Z - info: [8:16:53 PM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q5.md
+2021-12-04T01:16:54.289Z - info: Rebuilding 1 pages
+2021-12-04T01:16:54.349Z - info: Site data built
+2021-12-04T01:16:54.349Z - info: Pages rebuilt
+2021-12-04T01:16:54.349Z - info: Website regeneration complete! Total build time: 0.061s
+2021-12-04T01:17:03.842Z - info: [8:17:03 PM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q5.md
+2021-12-04T01:17:04.849Z - info: Rebuilding 1 pages
+2021-12-04T01:17:04.906Z - info: Site data built
+2021-12-04T01:17:04.906Z - info: Pages rebuilt
+2021-12-04T01:17:04.906Z - info: Website regeneration complete! Total build time: 0.058s
+2021-12-04T01:17:31.276Z - info: [8:17:31 PM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q5.md
+2021-12-04T01:17:32.285Z - info: Rebuilding 1 pages
+2021-12-04T01:17:32.340Z - info: Site data built
+2021-12-04T01:17:32.340Z - info: Pages rebuilt
+2021-12-04T01:17:32.340Z - info: Website regeneration complete! Total build time: 0.062s
+2021-12-04T01:17:53.658Z - info: [8:17:53 PM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q5.md
+2021-12-04T01:17:54.666Z - info: Rebuilding 1 pages
+2021-12-04T01:17:54.746Z - info: Site data built
+2021-12-04T01:17:54.746Z - info: Pages rebuilt
+2021-12-04T01:17:54.746Z - info: Website regeneration complete! Total build time: 0.083s
+2021-12-04T01:18:21.328Z - info: [8:18:21 PM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q5.md
+2021-12-04T01:18:22.334Z - info: Rebuilding 1 pages
+2021-12-04T01:18:22.417Z - info: Site data built
+2021-12-04T01:18:22.417Z - info: Pages rebuilt
+2021-12-04T01:18:22.418Z - info: Website regeneration complete! Total build time: 0.084s
+2021-12-04T01:18:56.951Z - info: [8:18:56 PM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q5.md
+2021-12-04T01:18:57.958Z - info: Rebuilding 1 pages
+2021-12-04T01:18:58.031Z - info: Site data built
+2021-12-04T01:18:58.031Z - info: Pages rebuilt
+2021-12-04T01:18:58.031Z - info: Website regeneration complete! Total build time: 0.075s
+2021-12-04T01:19:51.371Z - info: [8:19:51 PM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q5.md
+2021-12-04T01:19:52.379Z - info: Rebuilding 1 pages
+2021-12-04T01:19:52.486Z - info: Site data built
+2021-12-04T01:19:52.487Z - info: Pages rebuilt
+2021-12-04T01:19:52.487Z - info: Website regeneration complete! Total build time: 0.11s
+2021-12-04T01:20:06.754Z - info: [8:20:06 PM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q5.md
+2021-12-04T01:20:07.763Z - info: Rebuilding 1 pages
+2021-12-04T01:20:07.804Z - info: Site data built
+2021-12-04T01:20:07.804Z - info: Pages rebuilt
+2021-12-04T01:20:07.804Z - info: Website regeneration complete! Total build time: 0.042s
+2021-12-04T01:20:58.615Z - info: [8:20:58 PM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q5.md
+2021-12-04T01:20:59.616Z - info: Rebuilding 1 pages
+2021-12-04T01:20:59.659Z - info: Site data built
+2021-12-04T01:20:59.659Z - info: Pages rebuilt
+2021-12-04T01:20:59.659Z - info: Website regeneration complete! Total build time: 0.044s
+2021-12-04T01:21:13.334Z - info: [8:21:13 PM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q5.md
+2021-12-04T01:21:14.343Z - info: Rebuilding 1 pages
+2021-12-04T01:21:14.395Z - info: Site data built
+2021-12-04T01:21:14.395Z - info: Pages rebuilt
+2021-12-04T01:21:14.395Z - info: Website regeneration complete! Total build time: 0.055s
+2021-12-04T01:21:55.143Z - info: [8:21:55 PM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q5.md
+2021-12-04T01:21:56.149Z - info: Rebuilding 1 pages
+2021-12-04T01:21:56.201Z - info: Site data built
+2021-12-04T01:21:56.201Z - info: Pages rebuilt
+2021-12-04T01:21:56.201Z - info: Website regeneration complete! Total build time: 0.054s
+2021-12-04T01:22:28.216Z - info: [8:22:28 PM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q5.md
+2021-12-04T01:22:29.225Z - info: Rebuilding 1 pages
+2021-12-04T01:22:29.288Z - info: Site data built
+2021-12-04T01:22:29.289Z - info: Pages rebuilt
+2021-12-04T01:22:29.289Z - info: Website regeneration complete! Total build time: 0.066s
+2021-12-04T01:23:12.720Z - info: [8:23:12 PM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q5.md
+2021-12-04T01:23:13.730Z - info: Rebuilding 1 pages
+2021-12-04T01:23:13.825Z - info: Site data built
+2021-12-04T01:23:13.825Z - info: Pages rebuilt
+2021-12-04T01:23:13.825Z - info: Website regeneration complete! Total build time: 0.098s
+2021-12-04T01:23:39.889Z - info: [8:23:39 PM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q5.md
+2021-12-04T01:23:40.899Z - info: Rebuilding 1 pages
+2021-12-04T01:23:40.961Z - info: Site data built
+2021-12-04T01:23:40.961Z - info: Pages rebuilt
+2021-12-04T01:23:40.961Z - info: Website regeneration complete! Total build time: 0.063s
+2021-12-04T01:24:26.489Z - info: [8:24:26 PM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q5.md
+2021-12-04T01:24:27.496Z - info: Rebuilding 1 pages
+2021-12-04T01:24:27.542Z - info: Site data built
+2021-12-04T01:24:27.543Z - info: Pages rebuilt
+2021-12-04T01:24:27.543Z - info: Website regeneration complete! Total build time: 0.048s
+2021-12-04T01:25:23.632Z - info: [8:25:23 PM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q5.md
+2021-12-04T01:25:24.639Z - info: Rebuilding 1 pages
+2021-12-04T01:25:24.695Z - info: Site data built
+2021-12-04T01:25:24.695Z - info: Pages rebuilt
+2021-12-04T01:25:24.696Z - info: Website regeneration complete! Total build time: 0.057s
+2021-12-04T01:27:10.750Z - info: [8:27:10 PM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q5.md
+2021-12-04T01:27:11.758Z - info: Rebuilding 1 pages
+2021-12-04T01:27:11.846Z - info: Site data built
+2021-12-04T01:27:11.846Z - info: Pages rebuilt
+2021-12-04T01:27:11.846Z - info: Website regeneration complete! Total build time: 0.092s
+2021-12-04T01:28:13.148Z - info: [8:28:13 PM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q1.md
+2021-12-04T01:28:14.156Z - info: Rebuilding 1 pages
+2021-12-04T01:28:14.273Z - info: Site data built
+2021-12-04T01:28:14.273Z - info: Pages rebuilt
+2021-12-04T01:28:14.273Z - info: Website regeneration complete! Total build time: 0.119s
+2021-12-04T01:31:53.321Z - info: [8:31:53 PM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/_markbind/layouts/default.md
+2021-12-04T01:31:54.457Z - info: Rebuilding 8 pages
+2021-12-04T01:31:55.086Z - info: Site data built
+2021-12-04T01:31:55.086Z - info: Pages rebuilt
+2021-12-04T01:31:55.086Z - info: Website regeneration complete! Total build time: 0.63s
+2021-12-04T01:32:09.692Z - info: Deployed at https://tejas2805.github.io/bombphatnewalahai!
+2021-12-04T03:02:26.114Z - info: Website generation started at 10:02:26 PM
+2021-12-04T03:02:26.202Z - info: Building assets...
+2021-12-04T03:02:26.268Z - info: Assets built
+2021-12-04T03:02:26.269Z - info: Generating pages...
+2021-12-04T03:02:26.987Z - info: Pages built
+2021-12-04T03:02:27.055Z - info: Site data built
+2021-12-04T03:02:27.055Z - info: Website generation complete! Total build time: 1.002s
+2021-12-04T03:02:27.088Z - info: Serving "/Users/tejasbhuwania/Desktop/BombBoom/_site" at http://127.0.0.1:8080
+2021-12-04T03:02:27.089Z - info: Press CTRL+C to stop ...
+2021-12-04T03:03:14.801Z - info: [10:03:14 PM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q1.md
+2021-12-04T03:03:15.825Z - info: Rebuilding 1 pages
+2021-12-04T03:03:15.935Z - info: Site data built
+2021-12-04T03:03:15.935Z - info: Pages rebuilt
+2021-12-04T03:03:15.935Z - info: Website regeneration complete! Total build time: 0.113s
+2021-12-04T03:03:25.927Z - info: [10:03:25 PM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q1.md
+2021-12-04T03:03:26.937Z - info: Rebuilding 1 pages
+2021-12-04T03:03:27.048Z - info: Site data built
+2021-12-04T03:03:27.048Z - info: Pages rebuilt
+2021-12-04T03:03:27.048Z - info: Website regeneration complete! Total build time: 0.113s
+2021-12-04T03:04:10.290Z - info: [10:04:10 PM] Reload for file add: /Users/tejasbhuwania/Desktop/BombBoom/images/otter.jpeg
+2021-12-04T03:04:11.377Z - info: Assets built
+2021-12-04T03:04:22.223Z - info: [10:04:22 PM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q1.md
+2021-12-04T03:04:23.233Z - info: Rebuilding 1 pages
+2021-12-04T03:04:23.334Z - info: Site data built
+2021-12-04T03:04:23.334Z - info: Pages rebuilt
+2021-12-04T03:04:23.335Z - info: Website regeneration complete! Total build time: 0.103s
+2021-12-04T03:05:39.133Z - info: [10:05:39 PM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q5.md
+2021-12-04T03:05:40.156Z - info: Rebuilding 1 pages
+2021-12-04T03:05:40.264Z - info: Site data built
+2021-12-04T03:05:40.264Z - info: Pages rebuilt
+2021-12-04T03:05:40.265Z - info: Website regeneration complete! Total build time: 0.115s
+2021-12-04T03:06:41.871Z - info: [10:06:41 PM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q4.md
+2021-12-04T03:06:42.885Z - info: Rebuilding 1 pages
+2021-12-04T03:06:43.172Z - info: Site data built
+2021-12-04T03:06:43.172Z - info: Pages rebuilt
+2021-12-04T03:06:43.172Z - info: Website regeneration complete! Total build time: 0.29s
+2021-12-04T03:08:18.486Z - info: [10:08:18 PM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q2.md
+2021-12-04T03:08:19.496Z - info: Rebuilding 1 pages
+2021-12-04T03:08:19.669Z - info: Site data built
+2021-12-04T03:08:19.669Z - info: Pages rebuilt
+2021-12-04T03:08:19.670Z - info: Website regeneration complete! Total build time: 0.176s
+2021-12-04T03:08:58.138Z - info: [10:08:58 PM] Reload for file add: /Users/tejasbhuwania/Desktop/BombBoom/images/chak.jpg
+2021-12-04T03:08:59.176Z - info: Assets built
+2021-12-04T03:09:07.272Z - info: [10:09:07 PM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q2.md
+2021-12-04T03:09:08.281Z - info: Rebuilding 1 pages
+2021-12-04T03:09:08.387Z - info: Site data built
+2021-12-04T03:09:08.388Z - info: Pages rebuilt
+2021-12-04T03:09:08.388Z - info: Website regeneration complete! Total build time: 0.108s
+2021-12-04T03:10:33.088Z - info: [10:10:33 PM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q4.md
+2021-12-04T03:10:34.109Z - info: Rebuilding 1 pages
+2021-12-04T03:10:34.359Z - info: Site data built
+2021-12-04T03:10:34.360Z - info: Pages rebuilt
+2021-12-04T03:10:34.360Z - info: Website regeneration complete! Total build time: 0.255s
+2021-12-04T03:10:44.124Z - info: [10:10:44 PM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q4.md
+2021-12-04T03:10:45.131Z - info: Rebuilding 1 pages
+2021-12-04T03:10:45.295Z - info: Site data built
+2021-12-04T03:10:45.295Z - info: Pages rebuilt
+2021-12-04T03:10:45.295Z - info: Website regeneration complete! Total build time: 0.166s
+2021-12-04T03:22:36.643Z - info: [10:22:36 PM] Reload for file deletion: /Users/tejasbhuwania/Desktop/BombBoom/images/atharva.HEIC
+2021-12-04T03:22:37.677Z - debug: Assets removed
+2021-12-04T03:22:45.726Z - info: [10:22:45 PM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q3.md
+2021-12-04T03:22:46.733Z - info: Rebuilding 1 pages
+2021-12-04T03:22:46.972Z - info: Site data built
+2021-12-04T03:22:46.972Z - info: Pages rebuilt
+2021-12-04T03:22:46.976Z - info: Website regeneration complete! Total build time: 0.241s
+2021-12-04T03:28:22.841Z - info: [10:28:22 PM] Reload for file change: /Users/tejasbhuwania/Desktop/BombBoom/contents/q3.md
+2021-12-04T03:28:23.916Z - info: Rebuilding 1 pages
+2021-12-04T03:28:24.099Z - info: Site data built
+2021-12-04T03:28:24.099Z - info: Pages rebuilt
+2021-12-04T03:28:24.099Z - info: Website regeneration complete! Total build time: 0.216s
+2021-12-04T03:28:31.630Z - info: Website generation started at 10:28:31 PM
+2021-12-04T03:28:31.706Z - info: Building assets...
+2021-12-04T03:28:31.773Z - info: Assets built
+2021-12-04T03:28:31.773Z - info: Generating pages...
+2021-12-04T03:28:32.357Z - info: Pages built
+2021-12-04T03:28:32.419Z - info: Site data built
+2021-12-04T03:28:32.419Z - info: Website generation complete! Total build time: 0.856s
+2021-12-04T03:28:32.438Z - info: Serving "/Users/tejasbhuwania/Desktop/BombBoom/_site" at http://127.0.0.1:8080
+2021-12-04T03:28:32.438Z - info: Press CTRL+C to stop ...
+2021-12-04T03:29:16.966Z - info: Deployed at https://tejas2805.github.io/bombphatnewalahai!
